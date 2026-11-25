@@ -1,0 +1,53 @@
+# ── Python ──────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ── Environment & Secrets ───────────────────────────────
+.env
+*.env
+!.env.example
+
+# ── Node / Frontend ─────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/.vite/
+.pnp
+.pnp.js
+
+# ── Databases & Runtime files ───────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Logs ────────────────────────────────────────────────
+*.log
+logs/
+
+# ── OS / Editor ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Portable tools ──────────────────────────────────────
+.tools/
+
+# ── Sample data outputs ──────────────────────────────────
+backend/sample_data/
+

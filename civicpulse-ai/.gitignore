@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+backend/.env
+backend/civicpulse.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Local tooling
+.tools/
+

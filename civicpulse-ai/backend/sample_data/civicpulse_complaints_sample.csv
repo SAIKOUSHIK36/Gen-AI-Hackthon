@@ -1,0 +1,621 @@
+Complaint_ID,Category,Department,Date_Received,Status,Deadline,Resolution_Date,Assigned_Department,Assigned_Team,Priority,Delay_Reason,Last_Updated_Date
+C0162,Bridge Surface,Roads Dept,2026-06-27,Resolved,2026-07-05,2026-07-05,Roads Dept,RDS-Team-01,Medium,None,2026-07-05
+C0049,Pipeline Burst,Water Dept,2026-06-28,Resolved,2026-07-02,2026-06-30,Water Dept,WTR-Team-C,Medium,None,2026-06-30
+C0405,Encroachment,Permits & Enforcement,2026-06-28,Resolved,2026-07-12,2026-07-14,Permits & Enforcement,ENF-Team-A,Low,None,2026-07-14
+C0054,Bridge Surface,Roads Dept,2026-06-29,Resolved,2026-07-10,2026-07-10,Roads Dept,RDS-Team-02,Low,None,2026-07-10
+C0297,Sanitation,Municipal Dept,2026-06-29,In Progress,2026-07-03,,Municipal Dept,MUN-Team-02,High,,2026-11-21
+C0319,Drainage,Municipal Dept,2026-06-29,Resolved,2026-07-04,2026-07-01,Municipal Dept,MUN-Team-02,Medium,None,2026-07-01
+C0465,Illegal Construction,Permits & Enforcement,2026-06-29,Overdue,2026-07-09,,Permits & Enforcement,ENF-Team-A,Medium,Awaiting inspection,2026-11-11
+C0474,Downed Wire,Electricity Dept,2026-06-29,Resolved,2026-07-02,2026-07-02,Electricity Dept,ELC-Team-A,Medium,None,2026-07-02
+C0563,Water Leakage,Water Dept,2026-06-29,Resolved,2026-07-04,2026-07-06,Water Dept,WTR-Team-A,Low,Equipment unavailable,2026-07-06
+C0073,Garbage Overflow,Municipal Dept,2026-06-30,Resolved,2026-07-05,2026-07-10,Municipal Dept,MUN-Team-01,Medium,Awaiting inspection,2026-07-10
+C0266,Sanitation,Municipal Dept,2026-06-30,Resolved,2026-07-07,2026-07-03,Municipal Dept,MUN-Team-01,Low,None,2026-07-03
+C0255,Water Supply,Water Dept,2026-07-01,Resolved,2026-07-06,2026-07-05,Water Dept,WTR-Team-A,Low,None,2026-07-05
+C0385,Transformer Fault,Electricity Dept,2026-07-01,Resolved,2026-07-03,2026-07-02,Electricity Dept,ELC-Team-A,High,None,2026-07-02
+C0208,Sanitation,Municipal Dept,2026-07-02,Resolved,2026-07-06,2026-07-04,Municipal Dept,MUN-Team-01,High,None,2026-07-04
+C0384,Noise Permit,Permits & Enforcement,2026-07-02,Resolved,2026-07-12,2026-07-11,Permits & Enforcement,ENF-Team-A,Medium,None,2026-07-11
+C0228,Drainage,Municipal Dept,2026-07-03,Pending,2026-07-08,,Municipal Dept,MUN-Team-03,Medium,High complaint workload,2026-11-16
+C0336,Garbage Overflow,Municipal Dept,2026-07-03,Resolved,2026-07-07,2026-07-11,Municipal Dept,MUN-Team-03,High,Awaiting inspection,2026-07-11
+C0402,Electricity,Electricity Dept,2026-07-03,Resolved,2026-07-07,2026-07-05,Electricity Dept,ELC-Team-A,Low,None,2026-07-05
+C0526,Storm Drain Blockage,Municipal Dept,2026-07-03,Resolved,2026-07-08,2026-07-07,Municipal Dept,MUN-Team-03,Medium,None,2026-07-07
+C0216,Storm Drain Blockage,Municipal Dept,2026-07-05,In Progress,2026-07-09,,Municipal Dept,MUN-Team-02,High,Awaiting inspection,2026-11-13
+C0335,Noise Permit,Permits & Enforcement,2026-07-05,Resolved,2026-07-15,2026-07-20,Permits & Enforcement,ENF-Team-A,Medium,None,2026-07-20
+C0363,Downed Wire,Electricity Dept,2026-07-05,Pending,2026-07-08,,Electricity Dept,ELC-Team-A,Medium,Technical difficulties,2026-11-22
+C0416,Road Damage,Roads Dept,2026-07-05,Resolved,2026-07-13,2026-07-25,Roads Dept,RDS-Team-01,Medium,None,2026-07-25
+C0026,Downed Wire,Electricity Dept,2026-07-06,Resolved,2026-07-09,2026-07-08,Electricity Dept,ELC-Team-B,Medium,None,2026-07-08
+C0074,Drainage,Municipal Dept,2026-07-06,Resolved,2026-07-10,2026-07-09,Municipal Dept,MUN-Team-03,High,None,2026-07-09
+C0117,Streetlight Outage,Electricity Dept,2026-07-06,Resolved,2026-07-09,2026-07-08,Electricity Dept,ELC-Team-A,Medium,None,2026-07-08
+C0360,Pipeline Burst,Water Dept,2026-07-06,Resolved,2026-07-10,2026-07-12,Water Dept,WTR-Team-B,Medium,Staff unavailable,2026-07-12
+C0429,Downed Wire,Electricity Dept,2026-07-06,Resolved,2026-07-08,2026-07-07,Electricity Dept,ELC-Team-A,High,None,2026-07-07
+C0159,Bridge Surface,Roads Dept,2026-07-07,Resolved,2026-07-15,2026-07-12,Roads Dept,RDS-Team-02,Medium,None,2026-07-12
+C0475,Storm Drain Blockage,Municipal Dept,2026-07-07,Resolved,2026-07-11,2026-07-13,Municipal Dept,MUN-Team-02,High,High complaint workload,2026-07-13
+C0486,Sanitation,Municipal Dept,2026-07-07,In Progress,2026-07-14,,Municipal Dept,MUN-Team-03,Low,Equipment unavailable,2026-11-22
+C0498,Water Supply,Water Dept,2026-07-07,Resolved,2026-07-11,2026-07-09,Water Dept,WTR-Team-B,Medium,None,2026-07-09
+C0088,Pothole Repair,Roads Dept,2026-07-08,Resolved,2026-07-16,2026-07-14,Roads Dept,RDS-Team-02,Medium,None,2026-07-14
+C0265,Electricity,Electricity Dept,2026-07-09,Resolved,2026-07-12,2026-07-10,Electricity Dept,ELC-Team-A,Medium,None,2026-07-10
+C0282,Contaminated Supply,Water Dept,2026-07-10,Resolved,2026-07-12,2026-07-13,Water Dept,WTR-Team-B,Critical,None,2026-07-13
+C0355,Streetlight Outage,Electricity Dept,2026-07-10,Resolved,2026-07-14,2026-07-12,Electricity Dept,ELC-Team-A,Low,None,2026-07-12
+C0466,Zoning Violation,Permits & Enforcement,2026-07-10,Resolved,2026-07-18,2026-07-20,Permits & Enforcement,ENF-Team-A,High,None,2026-07-20
+C0489,Storm Drain Blockage,Municipal Dept,2026-07-10,Resolved,2026-07-12,2026-07-11,Municipal Dept,MUN-Team-02,Critical,None,2026-07-11
+C0125,Noise Permit,Permits & Enforcement,2026-07-11,Resolved,2026-07-16,2026-07-16,Permits & Enforcement,ENF-Team-A,Critical,None,2026-07-16
+C0236,Pothole Repair,Roads Dept,2026-07-11,Resolved,2026-07-22,2026-08-04,Roads Dept,RDS-Team-01,Low,None,2026-08-04
+C0004,Encroachment,Permits & Enforcement,2026-07-12,Overdue,2026-07-22,,Permits & Enforcement,ENF-Team-B,Medium,Delay in department approval,2026-11-23
+C0404,Streetlight Outage,Electricity Dept,2026-07-12,Resolved,2026-07-16,2026-07-15,Electricity Dept,ELC-Team-A,Low,None,2026-07-15
+C0039,Water Leakage,Water Dept,2026-07-13,Resolved,2026-07-16,2026-07-16,Water Dept,WTR-Team-C,High,None,2026-07-16
+C0095,Streetlight Outage,Electricity Dept,2026-07-13,Overdue,2026-07-17,,Electricity Dept,ELC-Team-B,Low,,2026-11-19
+C0152,Streetlight Outage,Electricity Dept,2026-07-13,Resolved,2026-07-16,2026-07-14,Electricity Dept,ELC-Team-B,Medium,None,2026-07-14
+C0444,Noise Permit,Permits & Enforcement,2026-07-13,Resolved,2026-07-23,2026-07-28,Permits & Enforcement,ENF-Team-A,Medium,Awaiting inspection,2026-07-28
+C0131,Noise Permit,Permits & Enforcement,2026-07-14,Resolved,2026-07-24,2026-07-20,Permits & Enforcement,ENF-Team-A,Medium,None,2026-07-20
+C0178,Drainage,Municipal Dept,2026-07-14,Resolved,2026-07-21,2026-07-21,Municipal Dept,MUN-Team-01,Low,None,2026-07-21
+C0542,Contaminated Supply,Water Dept,2026-07-14,Resolved,2026-07-18,2026-07-16,Water Dept,WTR-Team-C,Medium,None,2026-07-16
+C0200,Road Damage,Roads Dept,2026-07-15,Resolved,2026-07-23,2026-07-17,Roads Dept,RDS-Team-01,Medium,None,2026-07-17
+C0529,Streetlight Outage,Electricity Dept,2026-07-15,Rejected,2026-07-18,2026-07-19,Electricity Dept,ELC-Team-B,Medium,None,2026-07-19
+C0537,Water Leakage,Water Dept,2026-07-15,Overdue,2026-07-18,,Water Dept,WTR-Team-A,High,Equipment unavailable,2026-11-20
+C0261,Contaminated Supply,Water Dept,2026-07-16,Resolved,2026-07-21,2026-07-23,Water Dept,WTR-Team-B,Low,Technical difficulties,2026-07-23
+C0276,Sanitation,Municipal Dept,2026-07-16,In Progress,2026-07-20,,Municipal Dept,MUN-Team-01,High,Equipment unavailable,2026-11-06
+C0401,Electricity,Electricity Dept,2026-07-16,Resolved,2026-07-19,2026-07-18,Electricity Dept,ELC-Team-B,Medium,None,2026-07-18
+C0514,Water Supply,Water Dept,2026-07-16,Resolved,2026-07-18,2026-07-20,Water Dept,WTR-Team-A,Critical,None,2026-07-20
+C0031,Zoning Violation,Permits & Enforcement,2026-07-17,Resolved,2026-07-31,2026-07-27,Permits & Enforcement,ENF-Team-B,Low,None,2026-07-27
+C0068,Drainage,Municipal Dept,2026-07-17,Resolved,2026-07-19,2026-07-18,Municipal Dept,MUN-Team-03,Critical,None,2026-07-18
+C0238,Sidewalk Collapse,Roads Dept,2026-07-17,Resolved,2026-07-28,2026-07-27,Roads Dept,RDS-Team-02,Low,None,2026-07-27
+C0315,Storm Drain Blockage,Municipal Dept,2026-07-17,Resolved,2026-07-22,2026-07-26,Municipal Dept,MUN-Team-01,Medium,Awaiting inspection,2026-07-26
+C0196,Streetlight Outage,Electricity Dept,2026-07-18,Resolved,2026-07-22,2026-07-22,Electricity Dept,ELC-Team-B,Low,None,2026-07-22
+C0522,Water Leakage,Water Dept,2026-07-18,Resolved,2026-07-21,2026-07-23,Water Dept,WTR-Team-C,High,None,2026-07-23
+C0195,Downed Wire,Electricity Dept,2026-07-19,Resolved,2026-07-21,2026-07-21,Electricity Dept,ELC-Team-A,High,None,2026-07-21
+C0349,Contaminated Supply,Water Dept,2026-07-19,Resolved,2026-07-23,2026-07-25,Water Dept,WTR-Team-C,Medium,None,2026-07-25
+C0022,Pothole Repair,Roads Dept,2026-07-20,Pending,2026-07-28,,Roads Dept,RDS-Team-02,Medium,Awaiting materials,2026-11-15
+C0215,Sanitation,Municipal Dept,2026-07-20,Resolved,2026-07-24,2026-07-24,Municipal Dept,MUN-Team-01,High,None,2026-07-24
+C0586,Garbage Overflow,Municipal Dept,2026-07-20,Resolved,2026-07-24,2026-07-21,Municipal Dept,MUN-Team-02,High,None,2026-07-21
+C0103,Transformer Fault,Electricity Dept,2026-07-21,Resolved,2026-07-24,2026-07-23,Electricity Dept,ELC-Team-B,Medium,None,2026-07-23
+C0041,Water Supply,Water Dept,2026-07-22,Resolved,2026-07-25,2026-07-25,Water Dept,WTR-Team-B,High,None,2026-07-25
+C0059,Water Leakage,Water Dept,2026-07-22,Resolved,2026-07-27,2026-07-27,Water Dept,WTR-Team-A,Low,None,2026-07-27
+C0066,Electricity,Electricity Dept,2026-07-22,Resolved,2026-07-25,2026-07-24,Electricity Dept,ELC-Team-B,Medium,None,2026-07-24
+C0437,Bridge Surface,Roads Dept,2026-07-22,Resolved,2026-07-28,2026-07-24,Roads Dept,RDS-Team-01,High,None,2026-07-24
+C0311,Drainage,Municipal Dept,2026-07-23,Resolved,2026-07-27,2026-07-25,Municipal Dept,MUN-Team-03,High,None,2026-07-25
+C0013,Road Damage,Roads Dept,2026-07-24,Resolved,2026-07-30,2026-08-04,Roads Dept,RDS-Team-02,High,High complaint workload,2026-08-04
+C0174,Pothole Repair,Roads Dept,2026-07-24,Resolved,2026-07-30,2026-07-30,Roads Dept,RDS-Team-02,High,None,2026-07-30
+C0345,Garbage Overflow,Municipal Dept,2026-07-24,Pending,2026-07-31,,Municipal Dept,MUN-Team-03,Low,Poor coordination between departments,2026-11-12
+C0050,Garbage Overflow,Municipal Dept,2026-07-25,Resolved,2026-07-30,2026-07-31,Municipal Dept,MUN-Team-01,Medium,Poor coordination between departments,2026-07-31
+C0397,Pipeline Burst,Water Dept,2026-07-25,Pending,2026-07-29,,Water Dept,WTR-Team-C,Medium,Technical difficulties,2026-11-15
+C0457,Garbage Overflow,Municipal Dept,2026-07-25,Resolved,2026-07-29,2026-07-27,Municipal Dept,MUN-Team-03,High,None,2026-07-27
+C0492,Transformer Fault,Electricity Dept,2026-07-25,Resolved,2026-07-28,2026-07-30,Electricity Dept,ELC-Team-A,Medium,None,2026-07-30
+C0114,Transformer Fault,Electricity Dept,2026-07-26,Resolved,2026-07-29,2026-07-30,Electricity Dept,ELC-Team-A,Medium,None,2026-07-30
+C0274,Bridge Surface,Roads Dept,2026-07-26,Resolved,2026-08-03,2026-08-04,Roads Dept,RDS-Team-03,Medium,Awaiting materials,2026-08-04
+C0395,Transformer Fault,Electricity Dept,2026-07-26,Resolved,2026-07-29,2026-07-28,Electricity Dept,ELC-Team-B,Medium,None,2026-07-28
+C0441,Water Supply,Water Dept,2026-07-26,Overdue,2026-07-29,,Water Dept,WTR-Team-B,High,,2026-11-18
+C0552,Water Leakage,Water Dept,2026-07-26,Resolved,2026-07-31,2026-07-29,Water Dept,WTR-Team-A,Low,None,2026-07-29
+C0562,Transformer Fault,Electricity Dept,2026-07-26,Resolved,2026-07-29,2026-07-28,Electricity Dept,ELC-Team-B,Medium,None,2026-07-28
+C0076,Water Supply,Water Dept,2026-07-27,Overdue,2026-07-29,,Water Dept,WTR-Team-B,Critical,Equipment unavailable,2026-11-24
+C0124,Pothole Repair,Roads Dept,2026-07-27,Overdue,2026-08-04,,Roads Dept,RDS-Team-03,Medium,,2026-11-13
+C0260,Encroachment,Permits & Enforcement,2026-07-27,Resolved,2026-08-04,2026-08-06,Permits & Enforcement,ENF-Team-A,High,None,2026-08-06
+C0334,Garbage Overflow,Municipal Dept,2026-07-27,Resolved,2026-08-01,2026-08-03,Municipal Dept,MUN-Team-01,Medium,Awaiting inspection,2026-08-03
+C0270,Downed Wire,Electricity Dept,2026-07-28,Overdue,2026-07-31,,Electricity Dept,ELC-Team-A,Medium,Staff unavailable,2026-11-07
+C0389,Contaminated Supply,Water Dept,2026-07-28,Resolved,2026-08-01,2026-07-30,Water Dept,WTR-Team-B,Medium,None,2026-07-30
+C0107,Streetlight Outage,Electricity Dept,2026-07-29,Rejected,2026-08-02,2026-07-31,Electricity Dept,ELC-Team-A,Low,None,2026-07-31
+C0473,Electricity,Electricity Dept,2026-07-29,Resolved,2026-07-31,2026-08-01,Electricity Dept,ELC-Team-B,High,Technical difficulties,2026-08-01
+C0032,Sanitation,Municipal Dept,2026-07-30,Resolved,2026-08-04,2026-08-02,Municipal Dept,MUN-Team-01,Medium,None,2026-08-02
+C0370,Transformer Fault,Electricity Dept,2026-07-30,Resolved,2026-08-01,2026-07-31,Electricity Dept,ELC-Team-A,High,None,2026-07-31
+C0531,Pipeline Burst,Water Dept,2026-07-30,Resolved,2026-08-02,2026-07-31,Water Dept,WTR-Team-B,High,None,2026-07-31
+C0606,Sidewalk Collapse,Roads Dept,2026-07-30,Resolved,2026-08-05,2026-08-12,Roads Dept,RDS-Team-02,High,Awaiting materials,2026-08-12
+C0198,Bridge Surface,Roads Dept,2026-07-31,Resolved,2026-08-08,2026-08-07,Roads Dept,RDS-Team-03,Medium,None,2026-08-07
+C0176,Sidewalk Collapse,Roads Dept,2026-08-01,Overdue,2026-08-07,,Roads Dept,RDS-Team-01,High,High complaint workload,2026-11-24
+C0539,Bridge Surface,Roads Dept,2026-08-01,Resolved,2026-08-12,2026-08-22,Roads Dept,RDS-Team-02,Low,High complaint workload,2026-08-22
+C0038,Streetlight Outage,Electricity Dept,2026-08-02,Resolved,2026-08-04,2026-08-03,Electricity Dept,ELC-Team-B,High,None,2026-08-03
+C0090,Contaminated Supply,Water Dept,2026-08-02,Resolved,2026-08-06,2026-08-05,Water Dept,WTR-Team-B,Medium,None,2026-08-05
+C0119,Zoning Violation,Permits & Enforcement,2026-08-02,In Progress,2026-08-12,,Permits & Enforcement,ENF-Team-B,Medium,Delay in department approval,2026-11-24
+C0495,Encroachment,Permits & Enforcement,2026-08-02,Resolved,2026-08-16,2026-10-05,Permits & Enforcement,ENF-Team-A,Low,None,2026-10-05
+C0538,Drainage,Municipal Dept,2026-08-02,Resolved,2026-08-09,2026-08-13,Municipal Dept,MUN-Team-03,Low,None,2026-08-13
+C0093,Road Damage,Roads Dept,2026-08-03,Resolved,2026-08-11,2026-08-08,Roads Dept,RDS-Team-01,Medium,None,2026-08-08
+C0129,Water Leakage,Water Dept,2026-08-03,Resolved,2026-08-07,2026-08-05,Water Dept,WTR-Team-A,Medium,None,2026-08-05
+C0229,Garbage Overflow,Municipal Dept,2026-08-03,Pending,2026-08-05,,Municipal Dept,MUN-Team-01,Critical,High complaint workload,2026-11-23
+C0285,Streetlight Outage,Electricity Dept,2026-08-03,In Progress,2026-08-05,,Electricity Dept,ELC-Team-A,High,Staff unavailable,2026-11-14
+C0111,Storm Drain Blockage,Municipal Dept,2026-08-04,Resolved,2026-08-09,2026-08-06,Municipal Dept,MUN-Team-01,Medium,None,2026-08-06
+C0164,Sidewalk Collapse,Roads Dept,2026-08-04,In Progress,2026-08-10,,Roads Dept,RDS-Team-03,High,Awaiting materials,2026-11-24
+C0576,Zoning Violation,Permits & Enforcement,2026-08-04,Overdue,2026-08-14,,Permits & Enforcement,ENF-Team-B,Medium,,2026-11-22
+C0048,Noise Permit,Permits & Enforcement,2026-08-05,Resolved,2026-08-15,2026-08-16,Permits & Enforcement,ENF-Team-B,Medium,None,2026-08-16
+C0142,Garbage Overflow,Municipal Dept,2026-08-05,Resolved,2026-08-10,2026-08-07,Municipal Dept,MUN-Team-03,Medium,None,2026-08-07
+C0287,Water Leakage,Water Dept,2026-08-05,Resolved,2026-08-09,2026-08-12,Water Dept,WTR-Team-A,Medium,Awaiting materials,2026-08-12
+C0300,Electricity,Electricity Dept,2026-08-05,In Progress,2026-08-07,,Electricity Dept,ELC-Team-B,High,Poor coordination between departments,2026-11-21
+C0506,Storm Drain Blockage,Municipal Dept,2026-08-05,Resolved,2026-08-09,2026-08-07,Municipal Dept,MUN-Team-02,High,None,2026-08-07
+C0555,Sidewalk Collapse,Roads Dept,2026-08-05,Resolved,2026-08-13,2026-08-12,Roads Dept,RDS-Team-01,Medium,None,2026-08-12
+C0060,Zoning Violation,Permits & Enforcement,2026-08-06,Pending,2026-08-20,,Permits & Enforcement,ENF-Team-A,Low,Awaiting inspection,2026-11-17
+C0173,Storm Drain Blockage,Municipal Dept,2026-08-06,Resolved,2026-08-11,2026-08-09,Municipal Dept,MUN-Team-02,Medium,None,2026-08-09
+C0359,Road Damage,Roads Dept,2026-08-06,Pending,2026-08-12,,Roads Dept,RDS-Team-03,High,,2026-11-22
+C0118,Pipeline Burst,Water Dept,2026-08-07,Pending,2026-08-10,,Water Dept,WTR-Team-C,High,,2026-11-19
+C0143,Encroachment,Permits & Enforcement,2026-08-07,Resolved,2026-08-17,2026-08-22,Permits & Enforcement,ENF-Team-A,Medium,None,2026-08-22
+C0420,Road Damage,Roads Dept,2026-08-07,Resolved,2026-08-15,2026-08-15,Roads Dept,RDS-Team-03,Medium,None,2026-08-15
+C0109,Pipeline Burst,Water Dept,2026-08-08,Overdue,2026-08-10,,Water Dept,WTR-Team-A,Critical,,2026-11-22
+C0120,Electricity,Electricity Dept,2026-08-08,Resolved,2026-08-11,2026-08-11,Electricity Dept,ELC-Team-B,Medium,None,2026-08-11
+C0206,Pothole Repair,Roads Dept,2026-08-08,Overdue,2026-08-16,,Roads Dept,RDS-Team-02,Medium,Contractor-related delays,2026-11-07
+C0308,Water Leakage,Water Dept,2026-08-08,Resolved,2026-08-10,2026-08-09,Water Dept,WTR-Team-C,Critical,None,2026-08-09
+C0427,Road Damage,Roads Dept,2026-08-08,Overdue,2026-08-19,,Roads Dept,RDS-Team-02,Low,Awaiting materials,2026-11-23
+C0185,Zoning Violation,Permits & Enforcement,2026-08-09,Pending,2026-08-17,,Permits & Enforcement,ENF-Team-B,High,Staff unavailable,2026-11-17
+C0209,Drainage,Municipal Dept,2026-08-09,Pending,2026-08-16,,Municipal Dept,MUN-Team-02,Low,Equipment unavailable,2026-11-22
+C0341,Downed Wire,Electricity Dept,2026-08-09,In Progress,2026-08-11,,Electricity Dept,ELC-Team-B,Critical,,2026-11-21
+C0408,Encroachment,Permits & Enforcement,2026-08-09,Resolved,2026-08-17,2026-08-13,Permits & Enforcement,ENF-Team-A,High,None,2026-08-13
+C0089,Transformer Fault,Electricity Dept,2026-08-10,Overdue,2026-08-12,,Electricity Dept,ELC-Team-B,High,,2026-11-24
+C0132,Water Supply,Water Dept,2026-08-10,Overdue,2026-08-13,,Water Dept,WTR-Team-A,High,Staff unavailable,2026-11-23
+C0304,Encroachment,Permits & Enforcement,2026-08-10,Resolved,2026-08-20,2026-08-16,Permits & Enforcement,ENF-Team-B,Medium,None,2026-08-16
+C0482,Contaminated Supply,Water Dept,2026-08-10,Resolved,2026-08-14,2026-08-13,Water Dept,WTR-Team-B,Medium,None,2026-08-13
+C0499,Bridge Surface,Roads Dept,2026-08-10,Resolved,2026-08-14,2026-08-13,Roads Dept,RDS-Team-01,Critical,None,2026-08-13
+C0554,Pothole Repair,Roads Dept,2026-08-10,In Progress,2026-08-18,,Roads Dept,RDS-Team-02,Medium,Awaiting materials,2026-11-22
+C0067,Garbage Overflow,Municipal Dept,2026-08-11,Resolved,2026-08-16,2026-08-19,Municipal Dept,MUN-Team-02,Medium,Equipment unavailable,2026-08-19
+C0157,Pipeline Burst,Water Dept,2026-08-12,Resolved,2026-08-15,2026-08-15,Water Dept,WTR-Team-C,High,None,2026-08-15
+C0396,Downed Wire,Electricity Dept,2026-08-12,Resolved,2026-08-15,2026-08-19,Electricity Dept,ELC-Team-A,Medium,None,2026-08-19
+C0476,Road Damage,Roads Dept,2026-08-12,Overdue,2026-08-20,,Roads Dept,RDS-Team-01,Medium,Awaiting materials,2026-11-23
+C0614,Storm Drain Blockage,Municipal Dept,2026-08-12,Resolved,2026-08-17,2026-08-14,Municipal Dept,MUN-Team-03,Medium,None,2026-08-14
+C0203,Water Leakage,Water Dept,2026-08-13,Resolved,2026-08-18,2026-08-19,Water Dept,WTR-Team-C,Low,None,2026-08-19
+C0607,Water Leakage,Water Dept,2026-08-13,Resolved,2026-08-17,2026-08-23,Water Dept,WTR-Team-A,Medium,Equipment unavailable,2026-08-23
+C0003,Road Damage,Roads Dept,2026-08-14,Resolved,2026-08-22,2026-08-21,Roads Dept,RDS-Team-01,Medium,None,2026-08-21
+C0034,Streetlight Outage,Electricity Dept,2026-08-14,In Progress,2026-08-16,,Electricity Dept,ELC-Team-B,High,Staff unavailable,2026-11-24
+C0070,Transformer Fault,Electricity Dept,2026-08-14,Resolved,2026-08-16,2026-08-15,Electricity Dept,ELC-Team-B,High,None,2026-08-15
+C0182,Sidewalk Collapse,Roads Dept,2026-08-14,Resolved,2026-08-22,2026-08-22,Roads Dept,RDS-Team-02,Medium,None,2026-08-22
+C0279,Garbage Overflow,Municipal Dept,2026-08-14,Resolved,2026-08-21,2026-08-22,Municipal Dept,MUN-Team-02,Low,High complaint workload,2026-08-22
+C0333,Bridge Surface,Roads Dept,2026-08-16,Pending,2026-08-24,,Roads Dept,RDS-Team-02,Medium,,2026-11-21
+C0502,Noise Permit,Permits & Enforcement,2026-08-16,Resolved,2026-08-21,2026-08-21,Permits & Enforcement,ENF-Team-A,Critical,None,2026-08-21
+C0210,Encroachment,Permits & Enforcement,2026-08-17,Resolved,2026-08-27,2026-08-22,Permits & Enforcement,ENF-Team-A,Medium,None,2026-08-22
+C0422,Downed Wire,Electricity Dept,2026-08-17,Resolved,2026-08-19,2026-08-18,Electricity Dept,ELC-Team-B,Critical,None,2026-08-18
+C0024,Electricity,Electricity Dept,2026-08-18,Resolved,2026-08-22,2026-08-20,Electricity Dept,ELC-Team-A,Low,None,2026-08-20
+C0235,Road Damage,Roads Dept,2026-08-18,Resolved,2026-08-26,2026-08-27,Roads Dept,RDS-Team-02,Medium,High complaint workload,2026-08-27
+C0504,Road Damage,Roads Dept,2026-08-18,Resolved,2026-08-26,2026-09-01,Roads Dept,RDS-Team-03,Medium,Contractor-related delays,2026-09-01
+C0568,Streetlight Outage,Electricity Dept,2026-08-18,Resolved,2026-08-21,2026-08-21,Electricity Dept,ELC-Team-B,Medium,None,2026-08-21
+C0151,Road Damage,Roads Dept,2026-08-19,Resolved,2026-08-27,2026-08-24,Roads Dept,RDS-Team-01,Medium,None,2026-08-24
+C0194,Road Damage,Roads Dept,2026-08-19,Overdue,2026-08-23,,Roads Dept,RDS-Team-01,Critical,Awaiting materials,2026-11-24
+C0356,Storm Drain Blockage,Municipal Dept,2026-08-19,Resolved,2026-08-24,2026-08-21,Municipal Dept,MUN-Team-01,Medium,None,2026-08-21
+C0366,Sanitation,Municipal Dept,2026-08-19,Rejected,2026-08-24,2026-08-20,Municipal Dept,MUN-Team-03,Medium,None,2026-08-20
+C0392,Drainage,Municipal Dept,2026-08-19,Resolved,2026-08-23,2026-08-20,Municipal Dept,MUN-Team-01,High,None,2026-08-20
+C0490,Drainage,Municipal Dept,2026-08-19,Resolved,2026-08-24,2026-08-24,Municipal Dept,MUN-Team-03,Medium,None,2026-08-24
+C0234,Noise Permit,Permits & Enforcement,2026-08-20,Resolved,2026-08-25,2026-08-25,Permits & Enforcement,ENF-Team-A,Critical,None,2026-08-25
+C0257,Road Damage,Roads Dept,2026-08-20,Resolved,2026-08-26,2026-08-23,Roads Dept,RDS-Team-01,High,None,2026-08-23
+C0434,Streetlight Outage,Electricity Dept,2026-08-20,Resolved,2026-08-23,2026-08-25,Electricity Dept,ELC-Team-A,Medium,None,2026-08-25
+C0587,Water Supply,Water Dept,2026-08-20,Resolved,2026-08-25,2026-08-22,Water Dept,WTR-Team-A,Low,None,2026-08-22
+C0007,Transformer Fault,Electricity Dept,2026-08-21,Pending,2026-08-24,,Electricity Dept,ELC-Team-A,Medium,Poor coordination between departments,2026-11-19
+C0080,Contaminated Supply,Water Dept,2026-08-21,Rejected,2026-08-25,2026-08-23,Water Dept,WTR-Team-A,Medium,None,2026-08-23
+C0278,Pothole Repair,Roads Dept,2026-08-21,Resolved,2026-08-29,2026-08-28,Roads Dept,RDS-Team-01,Medium,None,2026-08-28
+C0517,Streetlight Outage,Electricity Dept,2026-08-21,Resolved,2026-08-23,2026-08-24,Electricity Dept,ELC-Team-B,Critical,Staff unavailable,2026-08-24
+C0256,Sanitation,Municipal Dept,2026-08-22,Resolved,2026-08-27,2026-08-27,Municipal Dept,MUN-Team-02,Medium,None,2026-08-27
+C0368,Bridge Surface,Roads Dept,2026-08-22,Resolved,2026-08-28,2026-08-29,Roads Dept,RDS-Team-01,High,None,2026-08-29
+C0373,Bridge Surface,Roads Dept,2026-08-22,Resolved,2026-08-26,2026-08-28,Roads Dept,RDS-Team-03,Critical,Awaiting materials,2026-08-28
+C0042,Illegal Construction,Permits & Enforcement,2026-08-23,Resolved,2026-08-31,2026-08-28,Permits & Enforcement,ENF-Team-B,High,None,2026-08-28
+C0056,Electricity,Electricity Dept,2026-08-23,Resolved,2026-08-26,2026-08-24,Electricity Dept,ELC-Team-A,Medium,None,2026-08-24
+C0005,Sanitation,Municipal Dept,2026-08-24,Resolved,2026-08-29,2026-08-27,Municipal Dept,MUN-Team-02,Medium,None,2026-08-27
+C0135,Road Damage,Roads Dept,2026-08-24,Rejected,2026-08-30,2026-08-27,Roads Dept,RDS-Team-03,High,None,2026-08-27
+C0268,Bridge Surface,Roads Dept,2026-08-24,Pending,2026-09-01,,Roads Dept,RDS-Team-03,Medium,Contractor-related delays,2026-11-13
+C0398,Drainage,Municipal Dept,2026-08-24,Resolved,2026-08-28,2026-08-31,Municipal Dept,MUN-Team-03,High,Poor coordination between departments,2026-08-31
+C0518,Bridge Surface,Roads Dept,2026-08-24,Resolved,2026-09-04,2026-08-30,Roads Dept,RDS-Team-01,Low,None,2026-08-30
+C0541,Bridge Surface,Roads Dept,2026-08-24,Resolved,2026-08-30,2026-08-26,Roads Dept,RDS-Team-01,High,None,2026-08-26
+C0237,Sidewalk Collapse,Roads Dept,2026-08-25,Resolved,2026-09-02,2026-09-07,Roads Dept,RDS-Team-02,Medium,Awaiting materials,2026-09-07
+C0290,Illegal Construction,Permits & Enforcement,2026-08-25,In Progress,2026-09-08,,Permits & Enforcement,ENF-Team-A,Low,Awaiting inspection,2026-11-21
+C0442,Pothole Repair,Roads Dept,2026-08-25,Rejected,2026-09-02,2026-08-29,Roads Dept,RDS-Team-03,Medium,None,2026-08-29
+C0361,Drainage,Municipal Dept,2026-08-26,Resolved,2026-08-31,2026-08-30,Municipal Dept,MUN-Team-01,Medium,None,2026-08-30
+C0480,Contaminated Supply,Water Dept,2026-08-26,Overdue,2026-08-31,,Water Dept,WTR-Team-B,Low,,2026-11-14
+C0148,Pipeline Burst,Water Dept,2026-08-27,Resolved,2026-08-31,2026-08-30,Water Dept,WTR-Team-C,Medium,None,2026-08-30
+C0243,Garbage Overflow,Municipal Dept,2026-08-27,Resolved,2026-08-31,2026-08-31,Municipal Dept,MUN-Team-02,High,None,2026-08-31
+C0207,Pothole Repair,Roads Dept,2026-08-28,Rejected,2026-09-05,2026-09-01,Roads Dept,RDS-Team-01,Medium,None,2026-09-01
+C0375,Noise Permit,Permits & Enforcement,2026-08-28,Resolved,2026-09-07,2026-09-02,Permits & Enforcement,ENF-Team-A,Medium,None,2026-09-02
+C0468,Zoning Violation,Permits & Enforcement,2026-08-28,Resolved,2026-09-05,2026-09-01,Permits & Enforcement,ENF-Team-B,High,None,2026-09-01
+C0615,Garbage Overflow,Municipal Dept,2026-08-28,Resolved,2026-09-02,2026-08-31,Municipal Dept,MUN-Team-01,Medium,None,2026-08-31
+C0258,Illegal Construction,Permits & Enforcement,2026-08-29,Resolved,2026-09-08,2026-09-05,Permits & Enforcement,ENF-Team-A,Medium,None,2026-09-05
+C0277,Contaminated Supply,Water Dept,2026-08-29,Overdue,2026-09-02,,Water Dept,WTR-Team-A,Medium,Awaiting inspection,2026-11-18
+C0313,Downed Wire,Electricity Dept,2026-08-29,Resolved,2026-09-02,2026-09-01,Electricity Dept,ELC-Team-A,Low,None,2026-09-01
+C0439,Storm Drain Blockage,Municipal Dept,2026-08-29,Resolved,2026-09-03,2026-09-02,Municipal Dept,MUN-Team-01,Medium,None,2026-09-02
+C0558,Water Leakage,Water Dept,2026-08-29,Resolved,2026-09-01,2026-09-03,Water Dept,WTR-Team-C,High,Awaiting materials,2026-09-03
+C0186,Water Leakage,Water Dept,2026-08-30,Resolved,2026-09-03,2026-09-03,Water Dept,WTR-Team-C,Medium,None,2026-09-03
+C0338,Bridge Surface,Roads Dept,2026-08-30,Resolved,2026-09-10,2026-09-11,Roads Dept,RDS-Team-03,Low,None,2026-09-11
+C0447,Road Damage,Roads Dept,2026-08-30,Resolved,2026-09-07,2026-09-04,Roads Dept,RDS-Team-03,Medium,None,2026-09-04
+C0433,Noise Permit,Permits & Enforcement,2026-08-31,Resolved,2026-09-14,2026-09-05,Permits & Enforcement,ENF-Team-A,Low,None,2026-09-05
+C0559,Water Supply,Water Dept,2026-08-31,Resolved,2026-09-04,2026-09-04,Water Dept,WTR-Team-B,Medium,None,2026-09-04
+C0578,Garbage Overflow,Municipal Dept,2026-08-31,In Progress,2026-09-05,,Municipal Dept,MUN-Team-01,Medium,High complaint workload,2026-11-15
+C0591,Pipeline Burst,Water Dept,2026-08-31,Resolved,2026-09-04,2026-09-01,Water Dept,WTR-Team-A,Medium,None,2026-09-01
+C0223,Bridge Surface,Roads Dept,2026-09-01,Resolved,2026-09-05,2026-09-05,Roads Dept,RDS-Team-01,Critical,None,2026-09-05
+C0302,Water Leakage,Water Dept,2026-09-01,Overdue,2026-09-04,,Water Dept,WTR-Team-B,High,Awaiting materials,2026-11-09
+C0245,Water Supply,Water Dept,2026-09-02,Resolved,2026-09-06,2026-09-04,Water Dept,WTR-Team-C,Medium,None,2026-09-04
+C0553,Water Leakage,Water Dept,2026-09-03,Overdue,2026-09-08,,Water Dept,WTR-Team-A,Low,Awaiting materials,2026-11-13
+C0072,Water Supply,Water Dept,2026-09-04,Resolved,2026-09-06,2026-09-07,Water Dept,WTR-Team-B,Critical,Equipment unavailable,2026-09-07
+C0501,Streetlight Outage,Electricity Dept,2026-09-04,Overdue,2026-09-06,,Electricity Dept,ELC-Team-A,High,,2026-11-23
+C0271,Road Damage,Roads Dept,2026-09-05,Resolved,2026-09-13,2026-09-14,Roads Dept,RDS-Team-02,Medium,Contractor-related delays,2026-09-14
+C0605,Road Damage,Roads Dept,2026-09-05,In Progress,2026-09-13,,Roads Dept,RDS-Team-02,Medium,Awaiting materials,2026-11-21
+C0053,Drainage,Municipal Dept,2026-09-06,Resolved,2026-09-08,2026-09-14,Municipal Dept,MUN-Team-01,Critical,Awaiting inspection,2026-09-14
+C0400,Pothole Repair,Roads Dept,2026-09-06,Resolved,2026-09-10,2026-09-14,Roads Dept,RDS-Team-01,Critical,None,2026-09-14
+C0600,Pothole Repair,Roads Dept,2026-09-07,Resolved,2026-09-18,2026-09-12,Roads Dept,RDS-Team-02,Low,None,2026-09-12
+C0150,Road Damage,Roads Dept,2026-09-08,Resolved,2026-09-16,2026-09-23,Roads Dept,RDS-Team-01,Medium,Delay in department approval,2026-09-23
+C0516,Streetlight Outage,Electricity Dept,2026-09-08,Resolved,2026-09-11,2026-09-16,Electricity Dept,ELC-Team-A,Medium,Staff unavailable,2026-09-16
+C0584,Pothole Repair,Roads Dept,2026-09-08,Resolved,2026-09-16,2026-09-15,Roads Dept,RDS-Team-01,Medium,None,2026-09-15
+C0046,Noise Permit,Permits & Enforcement,2026-09-09,Resolved,2026-09-23,2026-09-15,Permits & Enforcement,ENF-Team-A,Low,None,2026-09-15
+C0314,Streetlight Outage,Electricity Dept,2026-09-09,Resolved,2026-09-12,2026-09-12,Electricity Dept,ELC-Team-A,Medium,None,2026-09-12
+C0619,Illegal Construction,Permits & Enforcement,2026-09-09,Resolved,2026-09-14,2026-09-13,Permits & Enforcement,ENF-Team-A,Critical,None,2026-09-13
+C0079,Drainage,Municipal Dept,2026-09-10,Resolved,2026-09-12,2026-09-12,Municipal Dept,MUN-Team-03,Critical,None,2026-09-12
+C0126,Transformer Fault,Electricity Dept,2026-09-10,In Progress,2026-09-13,,Electricity Dept,ELC-Team-B,Medium,Poor coordination between departments,2026-11-08
+C0133,Garbage Overflow,Municipal Dept,2026-09-10,Resolved,2026-09-15,2026-09-13,Municipal Dept,MUN-Team-01,Medium,None,2026-09-13
+C0249,Zoning Violation,Permits & Enforcement,2026-09-10,Resolved,2026-09-20,2026-09-16,Permits & Enforcement,ENF-Team-A,Medium,None,2026-09-16
+C0086,Water Leakage,Water Dept,2026-09-11,Overdue,2026-09-14,,Water Dept,WTR-Team-A,High,Technical difficulties,2026-11-15
+C0177,Contaminated Supply,Water Dept,2026-09-11,Resolved,2026-09-15,2026-09-12,Water Dept,WTR-Team-B,Medium,None,2026-09-12
+C0332,Bridge Surface,Roads Dept,2026-09-11,Resolved,2026-09-19,2026-09-24,Roads Dept,RDS-Team-02,Medium,None,2026-09-24
+C0342,Electricity,Electricity Dept,2026-09-11,Resolved,2026-09-13,2026-09-13,Electricity Dept,ELC-Team-A,High,None,2026-09-13
+C0462,Bridge Surface,Roads Dept,2026-09-11,In Progress,2026-09-19,,Roads Dept,RDS-Team-02,Medium,Equipment unavailable,2026-11-24
+C0478,Zoning Violation,Permits & Enforcement,2026-09-11,Pending,2026-09-21,,Permits & Enforcement,ENF-Team-A,Medium,Awaiting inspection,2026-11-13
+C0496,Road Damage,Roads Dept,2026-09-11,Resolved,2026-09-19,2026-09-17,Roads Dept,RDS-Team-02,Medium,None,2026-09-17
+C0567,Downed Wire,Electricity Dept,2026-09-11,Resolved,2026-09-13,2026-09-14,Electricity Dept,ELC-Team-B,High,Poor coordination between departments,2026-09-14
+C0307,Sidewalk Collapse,Roads Dept,2026-09-12,Resolved,2026-09-23,2026-09-23,Roads Dept,RDS-Team-01,Low,None,2026-09-23
+C0317,Road Damage,Roads Dept,2026-09-12,Resolved,2026-09-16,2026-09-17,Roads Dept,RDS-Team-01,Critical,None,2026-09-17
+C0530,Streetlight Outage,Electricity Dept,2026-09-12,Resolved,2026-09-14,2026-09-13,Electricity Dept,ELC-Team-A,High,None,2026-09-13
+C0611,Transformer Fault,Electricity Dept,2026-09-12,Overdue,2026-09-14,,Electricity Dept,ELC-Team-B,High,Staff unavailable,2026-11-23
+C0193,Streetlight Outage,Electricity Dept,2026-09-13,Pending,2026-09-17,,Electricity Dept,ELC-Team-B,Low,Awaiting materials,2026-11-19
+C0284,Streetlight Outage,Electricity Dept,2026-09-13,Resolved,2026-09-15,2026-09-14,Electricity Dept,ELC-Team-A,Critical,None,2026-09-14
+C0352,Encroachment,Permits & Enforcement,2026-09-13,Resolved,2026-09-21,2026-09-27,Permits & Enforcement,ENF-Team-B,High,Awaiting inspection,2026-09-27
+C0098,Water Leakage,Water Dept,2026-09-14,Resolved,2026-09-17,2026-09-17,Water Dept,WTR-Team-C,High,None,2026-09-17
+C0140,Road Damage,Roads Dept,2026-09-14,Resolved,2026-09-20,2026-09-19,Roads Dept,RDS-Team-03,High,None,2026-09-19
+C0598,Illegal Construction,Permits & Enforcement,2026-09-14,Resolved,2026-09-24,2026-09-18,Permits & Enforcement,ENF-Team-B,Medium,None,2026-09-18
+C0543,Transformer Fault,Electricity Dept,2026-09-15,Resolved,2026-09-18,2026-09-18,Electricity Dept,ELC-Team-A,Medium,None,2026-09-18
+C0028,Water Supply,Water Dept,2026-09-16,Resolved,2026-09-21,2026-09-21,Water Dept,WTR-Team-B,Low,None,2026-09-21
+C0226,Water Supply,Water Dept,2026-09-16,Pending,2026-09-19,,Water Dept,WTR-Team-B,High,Awaiting inspection,2026-11-15
+C0037,Drainage,Municipal Dept,2026-09-17,In Progress,2026-09-24,,Municipal Dept,MUN-Team-03,Low,,2026-11-17
+C0096,Garbage Overflow,Municipal Dept,2026-09-17,Rejected,2026-09-22,2026-09-18,Municipal Dept,MUN-Team-03,Medium,None,2026-09-18
+C0163,Storm Drain Blockage,Municipal Dept,2026-09-17,In Progress,2026-09-24,,Municipal Dept,MUN-Team-01,Low,Awaiting inspection,2026-11-08
+C0372,Garbage Overflow,Municipal Dept,2026-09-17,Resolved,2026-09-24,2026-09-19,Municipal Dept,MUN-Team-01,Low,None,2026-09-19
+C0548,Pipeline Burst,Water Dept,2026-09-17,In Progress,2026-09-22,,Water Dept,WTR-Team-B,Low,Equipment unavailable,2026-11-17
+C0549,Streetlight Outage,Electricity Dept,2026-09-17,Resolved,2026-09-19,2026-09-21,Electricity Dept,ELC-Team-B,Critical,Staff unavailable,2026-09-21
+C0012,Encroachment,Permits & Enforcement,2026-09-18,Overdue,2026-09-28,,Permits & Enforcement,ENF-Team-B,Medium,,2026-11-22
+C0017,Noise Permit,Permits & Enforcement,2026-09-18,Resolved,2026-09-28,2026-10-03,Permits & Enforcement,ENF-Team-A,Medium,None,2026-10-03
+C0020,Water Leakage,Water Dept,2026-09-18,In Progress,2026-09-21,,Water Dept,WTR-Team-A,High,Awaiting inspection,2026-11-11
+C0252,Streetlight Outage,Electricity Dept,2026-09-18,Resolved,2026-09-20,2026-09-20,Electricity Dept,ELC-Team-A,Critical,None,2026-09-20
+C0259,Pipeline Burst,Water Dept,2026-09-18,Overdue,2026-09-21,,Water Dept,WTR-Team-B,High,Awaiting materials,2026-11-13
+C0418,Zoning Violation,Permits & Enforcement,2026-09-18,Resolved,2026-09-26,2026-09-29,Permits & Enforcement,ENF-Team-B,High,None,2026-09-29
+C0616,Water Supply,Water Dept,2026-09-18,Resolved,2026-09-21,2026-09-22,Water Dept,WTR-Team-B,High,None,2026-09-22
+C0188,Illegal Construction,Permits & Enforcement,2026-09-19,Resolved,2026-09-27,2026-09-23,Permits & Enforcement,ENF-Team-B,High,None,2026-09-23
+C0219,Water Supply,Water Dept,2026-09-19,Resolved,2026-09-23,2026-09-22,Water Dept,WTR-Team-B,Medium,None,2026-09-22
+C0272,Bridge Surface,Roads Dept,2026-09-19,Overdue,2026-09-25,,Roads Dept,RDS-Team-02,High,,2026-11-24
+C0316,Sidewalk Collapse,Roads Dept,2026-09-19,Resolved,2026-09-30,2026-09-24,Roads Dept,RDS-Team-03,Low,None,2026-09-24
+C0445,Encroachment,Permits & Enforcement,2026-09-19,Pending,2026-09-29,,Permits & Enforcement,ENF-Team-A,Medium,Delay in department approval,2026-11-23
+C0456,Garbage Overflow,Municipal Dept,2026-09-19,Pending,2026-09-24,,Municipal Dept,MUN-Team-03,Medium,Equipment unavailable,2026-11-15
+C0546,Encroachment,Permits & Enforcement,2026-09-19,Resolved,2026-09-29,2026-10-05,Permits & Enforcement,ENF-Team-B,Medium,Staff unavailable,2026-10-05
+C0101,Road Damage,Roads Dept,2026-09-20,Resolved,2026-09-28,2026-09-30,Roads Dept,RDS-Team-01,Medium,None,2026-09-30
+C0123,Electricity,Electricity Dept,2026-09-20,Resolved,2026-09-22,2026-09-21,Electricity Dept,ELC-Team-B,High,None,2026-09-21
+C0138,Sidewalk Collapse,Roads Dept,2026-09-20,Overdue,2026-09-28,,Roads Dept,RDS-Team-03,Medium,Awaiting materials,2026-11-17
+C0222,Garbage Overflow,Municipal Dept,2026-09-20,In Progress,2026-09-27,,Municipal Dept,MUN-Team-03,Low,,2026-11-23
+C0448,Sidewalk Collapse,Roads Dept,2026-09-20,Resolved,2026-09-24,2026-09-23,Roads Dept,RDS-Team-01,Critical,None,2026-09-23
+C0503,Water Supply,Water Dept,2026-09-20,Resolved,2026-09-23,2026-09-21,Water Dept,WTR-Team-B,High,None,2026-09-21
+C0318,Sidewalk Collapse,Roads Dept,2026-09-21,Resolved,2026-09-27,2026-09-27,Roads Dept,RDS-Team-02,High,None,2026-09-27
+C0330,Noise Permit,Permits & Enforcement,2026-09-21,Resolved,2026-10-01,2026-10-01,Permits & Enforcement,ENF-Team-B,Medium,None,2026-10-01
+C0467,Pothole Repair,Roads Dept,2026-09-21,Pending,2026-09-29,,Roads Dept,RDS-Team-03,Medium,Awaiting materials,2026-11-13
+C0493,Noise Permit,Permits & Enforcement,2026-09-21,Resolved,2026-10-01,2026-10-02,Permits & Enforcement,ENF-Team-A,Medium,Staff unavailable,2026-10-02
+C0601,Pothole Repair,Roads Dept,2026-09-21,Resolved,2026-10-02,2026-09-29,Roads Dept,RDS-Team-01,Low,None,2026-09-29
+C0608,Contaminated Supply,Water Dept,2026-09-21,Resolved,2026-09-24,2026-09-22,Water Dept,WTR-Team-A,High,None,2026-09-22
+C0289,Pothole Repair,Roads Dept,2026-09-22,Resolved,2026-09-30,2026-09-27,Roads Dept,RDS-Team-02,Medium,None,2026-09-27
+C0324,Illegal Construction,Permits & Enforcement,2026-09-22,Resolved,2026-10-06,2026-09-28,Permits & Enforcement,ENF-Team-A,Low,None,2026-09-28
+C0411,Storm Drain Blockage,Municipal Dept,2026-09-22,Resolved,2026-09-26,2026-09-23,Municipal Dept,MUN-Team-02,High,None,2026-09-23
+C0160,Road Damage,Roads Dept,2026-09-23,Resolved,2026-09-27,2026-09-25,Roads Dept,RDS-Team-03,Critical,None,2026-09-25
+C0280,Noise Permit,Permits & Enforcement,2026-09-23,In Progress,2026-10-03,,Permits & Enforcement,ENF-Team-B,Medium,,2026-11-12
+C0413,Contaminated Supply,Water Dept,2026-09-23,Resolved,2026-09-26,2026-09-26,Water Dept,WTR-Team-B,High,None,2026-09-26
+C0423,Sidewalk Collapse,Roads Dept,2026-09-23,Resolved,2026-09-27,2026-09-25,Roads Dept,RDS-Team-01,Critical,None,2026-09-25
+C0436,Bridge Surface,Roads Dept,2026-09-23,Pending,2026-09-29,,Roads Dept,RDS-Team-02,High,Awaiting materials,2026-11-18
+C0511,Downed Wire,Electricity Dept,2026-09-23,Resolved,2026-09-25,2026-09-27,Electricity Dept,ELC-Team-B,High,None,2026-09-27
+C0021,Streetlight Outage,Electricity Dept,2026-09-24,Resolved,2026-09-26,2026-09-25,Electricity Dept,ELC-Team-B,Critical,None,2026-09-25
+C0214,Water Supply,Water Dept,2026-09-24,Resolved,2026-09-27,2026-09-25,Water Dept,WTR-Team-C,High,None,2026-09-25
+C0218,Water Supply,Water Dept,2026-09-24,Resolved,2026-09-27,2026-09-28,Water Dept,WTR-Team-C,High,Staff unavailable,2026-09-28
+C0273,Illegal Construction,Permits & Enforcement,2026-09-24,Resolved,2026-10-08,2026-10-07,Permits & Enforcement,ENF-Team-B,Low,None,2026-10-07
+C0354,Sidewalk Collapse,Roads Dept,2026-09-24,Resolved,2026-10-02,2026-10-01,Roads Dept,RDS-Team-01,Medium,None,2026-10-01
+C0362,Water Leakage,Water Dept,2026-09-24,Resolved,2026-09-29,2026-09-26,Water Dept,WTR-Team-A,Low,None,2026-09-26
+C0383,Road Damage,Roads Dept,2026-09-24,Pending,2026-10-02,,Roads Dept,RDS-Team-01,Medium,Awaiting materials,2026-11-21
+C0431,Sanitation,Municipal Dept,2026-09-24,Overdue,2026-09-28,,Municipal Dept,MUN-Team-01,High,Poor coordination between departments,2026-11-24
+C0044,Garbage Overflow,Municipal Dept,2026-09-25,Resolved,2026-09-29,2026-09-26,Municipal Dept,MUN-Team-01,High,None,2026-09-26
+C0220,Drainage,Municipal Dept,2026-09-25,Resolved,2026-09-30,2026-10-02,Municipal Dept,MUN-Team-02,Medium,None,2026-10-02
+C0426,Noise Permit,Permits & Enforcement,2026-09-25,Resolved,2026-10-03,2026-10-06,Permits & Enforcement,ENF-Team-A,High,None,2026-10-06
+C0479,Pipeline Burst,Water Dept,2026-09-25,Overdue,2026-09-29,,Water Dept,WTR-Team-C,Medium,Staff unavailable,2026-11-05
+C0572,Electricity,Electricity Dept,2026-09-25,Resolved,2026-09-27,2026-09-27,Electricity Dept,ELC-Team-A,High,None,2026-09-27
+C0450,Transformer Fault,Electricity Dept,2026-09-26,Resolved,2026-09-28,2026-09-28,Electricity Dept,ELC-Team-A,Critical,None,2026-09-28
+C0055,Storm Drain Blockage,Municipal Dept,2026-09-27,Pending,2026-10-02,,Municipal Dept,MUN-Team-02,Medium,Awaiting inspection,2026-11-14
+C0248,Garbage Overflow,Municipal Dept,2026-09-27,Resolved,2026-09-29,2026-09-28,Municipal Dept,MUN-Team-02,Critical,None,2026-09-28
+C0283,Pothole Repair,Roads Dept,2026-09-27,In Progress,2026-10-03,,Roads Dept,RDS-Team-02,High,,2026-11-21
+C0470,Contaminated Supply,Water Dept,2026-09-27,Resolved,2026-09-30,2026-09-29,Water Dept,WTR-Team-B,High,None,2026-09-29
+C0485,Illegal Construction,Permits & Enforcement,2026-09-27,Resolved,2026-10-02,2026-10-04,Permits & Enforcement,ENF-Team-A,Critical,None,2026-10-04
+C0513,Sidewalk Collapse,Roads Dept,2026-09-27,Resolved,2026-10-05,2026-10-07,Roads Dept,RDS-Team-01,Medium,Equipment unavailable,2026-10-07
+C0536,Sanitation,Municipal Dept,2026-09-27,Resolved,2026-10-01,2026-09-30,Municipal Dept,MUN-Team-01,High,None,2026-09-30
+C0564,Bridge Surface,Roads Dept,2026-09-27,Overdue,2026-10-03,,Roads Dept,RDS-Team-03,High,Awaiting materials,2026-11-14
+C0582,Pipeline Burst,Water Dept,2026-09-27,Overdue,2026-10-01,,Water Dept,WTR-Team-A,Medium,Technical difficulties,2026-11-06
+C0063,Pothole Repair,Roads Dept,2026-09-28,Pending,2026-10-09,,Roads Dept,RDS-Team-03,Low,Awaiting materials,2026-11-23
+C0147,Illegal Construction,Permits & Enforcement,2026-09-28,Resolved,2026-10-06,2026-10-06,Permits & Enforcement,ENF-Team-B,High,None,2026-10-06
+C0275,Road Damage,Roads Dept,2026-09-28,Resolved,2026-10-06,2026-10-01,Roads Dept,RDS-Team-01,Medium,None,2026-10-01
+C0286,Encroachment,Permits & Enforcement,2026-09-28,In Progress,2026-10-08,,Permits & Enforcement,ENF-Team-A,Medium,,2026-11-10
+C0507,Pothole Repair,Roads Dept,2026-09-28,Overdue,2026-10-06,,Roads Dept,RDS-Team-02,Medium,Equipment unavailable,2026-11-19
+C0618,Road Damage,Roads Dept,2026-09-28,Pending,2026-10-02,,Roads Dept,RDS-Team-01,Critical,Awaiting materials,2026-11-21
+C0369,Sanitation,Municipal Dept,2026-09-29,Resolved,2026-10-01,2026-10-01,Municipal Dept,MUN-Team-02,Critical,None,2026-10-01
+C0386,Downed Wire,Electricity Dept,2026-09-29,Overdue,2026-10-01,,Electricity Dept,ELC-Team-B,Critical,Staff unavailable,2026-11-08
+C0520,Water Leakage,Water Dept,2026-09-29,Resolved,2026-10-04,2026-10-07,Water Dept,WTR-Team-B,Low,Technical difficulties,2026-10-07
+C0149,Sidewalk Collapse,Roads Dept,2026-09-30,Pending,2026-10-04,,Roads Dept,RDS-Team-03,Critical,Awaiting materials,2026-11-13
+C0244,Illegal Construction,Permits & Enforcement,2026-09-30,Resolved,2026-10-05,2026-10-09,Permits & Enforcement,ENF-Team-A,Critical,Staff unavailable,2026-10-09
+C0409,Encroachment,Permits & Enforcement,2026-09-30,Resolved,2026-10-10,2026-10-13,Permits & Enforcement,ENF-Team-A,Medium,Delay in department approval,2026-10-13
+C0464,Pipeline Burst,Water Dept,2026-09-30,Pending,2026-10-03,,Water Dept,WTR-Team-B,High,,2026-11-13
+C0515,Transformer Fault,Electricity Dept,2026-09-30,Resolved,2026-10-03,2026-10-03,Electricity Dept,ELC-Team-B,Medium,None,2026-10-03
+C0002,Storm Drain Blockage,Municipal Dept,2026-10-01,Resolved,2026-10-05,2026-10-03,Municipal Dept,MUN-Team-02,High,None,2026-10-03
+C0077,Downed Wire,Electricity Dept,2026-10-01,Resolved,2026-10-04,2026-10-02,Electricity Dept,ELC-Team-A,Medium,None,2026-10-02
+C0263,Contaminated Supply,Water Dept,2026-10-01,Resolved,2026-10-05,2026-10-02,Water Dept,WTR-Team-C,Medium,None,2026-10-02
+C0382,Transformer Fault,Electricity Dept,2026-10-01,Overdue,2026-10-05,,Electricity Dept,ELC-Team-B,Low,Technical difficulties,2026-11-15
+C0451,Sanitation,Municipal Dept,2026-10-01,Overdue,2026-10-06,,Municipal Dept,MUN-Team-01,Medium,Poor coordination between departments,2026-11-20
+C0483,Bridge Surface,Roads Dept,2026-10-01,Resolved,2026-10-09,2026-10-09,Roads Dept,RDS-Team-03,Medium,None,2026-10-09
+C0082,Bridge Surface,Roads Dept,2026-10-02,Overdue,2026-10-06,,Roads Dept,RDS-Team-02,Critical,Awaiting materials,2026-11-23
+C0167,Downed Wire,Electricity Dept,2026-10-02,Resolved,2026-10-04,2026-10-04,Electricity Dept,ELC-Team-B,High,None,2026-10-04
+C0180,Water Leakage,Water Dept,2026-10-02,Pending,2026-10-07,,Water Dept,WTR-Team-C,Low,Technical difficulties,2026-11-18
+C0233,Downed Wire,Electricity Dept,2026-10-02,Resolved,2026-10-05,2026-10-03,Electricity Dept,ELC-Team-B,Medium,None,2026-10-03
+C0310,Water Leakage,Water Dept,2026-10-02,Resolved,2026-10-05,2026-10-04,Water Dept,WTR-Team-B,High,None,2026-10-04
+C0415,Transformer Fault,Electricity Dept,2026-10-02,Resolved,2026-10-04,2026-10-05,Electricity Dept,ELC-Team-A,High,None,2026-10-05
+C0599,Water Leakage,Water Dept,2026-10-02,Resolved,2026-10-04,2026-10-03,Water Dept,WTR-Team-B,Critical,None,2026-10-03
+C0170,Sidewalk Collapse,Roads Dept,2026-10-03,Overdue,2026-10-11,,Roads Dept,RDS-Team-02,Medium,Awaiting materials,2026-11-24
+C0269,Road Damage,Roads Dept,2026-10-03,Resolved,2026-10-11,2026-10-07,Roads Dept,RDS-Team-02,Medium,None,2026-10-07
+C0346,Transformer Fault,Electricity Dept,2026-10-03,Resolved,2026-10-05,2026-10-04,Electricity Dept,ELC-Team-B,Critical,None,2026-10-04
+C0545,Drainage,Municipal Dept,2026-10-03,Resolved,2026-10-08,2026-10-05,Municipal Dept,MUN-Team-01,Medium,None,2026-10-05
+C0065,Garbage Overflow,Municipal Dept,2026-10-04,Resolved,2026-10-11,2026-10-11,Municipal Dept,MUN-Team-01,Low,None,2026-10-11
+C0092,Pothole Repair,Roads Dept,2026-10-04,Resolved,2026-10-12,2026-10-07,Roads Dept,RDS-Team-02,Medium,None,2026-10-07
+C0381,Pipeline Burst,Water Dept,2026-10-04,Resolved,2026-10-09,2026-10-11,Water Dept,WTR-Team-C,Low,Technical difficulties,2026-10-11
+C0594,Sanitation,Municipal Dept,2026-10-04,Resolved,2026-10-08,2026-10-11,Municipal Dept,MUN-Team-02,High,None,2026-10-11
+C0052,Sidewalk Collapse,Roads Dept,2026-10-05,Pending,2026-10-16,,Roads Dept,RDS-Team-03,Low,Equipment unavailable,2026-11-23
+C0550,Pipeline Burst,Water Dept,2026-10-05,Resolved,2026-10-09,2026-10-12,Water Dept,WTR-Team-C,Medium,Awaiting inspection,2026-10-12
+C0569,Storm Drain Blockage,Municipal Dept,2026-10-05,Resolved,2026-10-10,2026-10-13,Municipal Dept,MUN-Team-03,Medium,High complaint workload,2026-10-13
+C0181,Pothole Repair,Roads Dept,2026-10-06,In Progress,2026-10-14,,Roads Dept,RDS-Team-03,Medium,Awaiting materials,2026-11-22
+C0293,Transformer Fault,Electricity Dept,2026-10-06,Resolved,2026-10-08,2026-10-07,Electricity Dept,ELC-Team-B,Critical,None,2026-10-07
+C0327,Zoning Violation,Permits & Enforcement,2026-10-06,Resolved,2026-10-16,2026-10-16,Permits & Enforcement,ENF-Team-A,Medium,None,2026-10-16
+C0443,Electricity,Electricity Dept,2026-10-06,Resolved,2026-10-09,2026-10-11,Electricity Dept,ELC-Team-A,Medium,Technical difficulties,2026-10-11
+C0201,Pipeline Burst,Water Dept,2026-10-07,Overdue,2026-10-12,,Water Dept,WTR-Team-C,Low,Technical difficulties,2026-11-21
+C0212,Water Supply,Water Dept,2026-10-07,Resolved,2026-10-10,2026-10-09,Water Dept,WTR-Team-C,High,None,2026-10-09
+C0247,Illegal Construction,Permits & Enforcement,2026-10-07,Resolved,2026-10-12,2026-10-12,Permits & Enforcement,ENF-Team-B,Critical,None,2026-10-12
+C0453,Encroachment,Permits & Enforcement,2026-10-07,Resolved,2026-10-21,2026-11-03,Permits & Enforcement,ENF-Team-A,Low,Awaiting inspection,2026-11-03
+C0458,Bridge Surface,Roads Dept,2026-10-07,Resolved,2026-10-18,2026-10-15,Roads Dept,RDS-Team-03,Low,None,2026-10-15
+C0184,Noise Permit,Permits & Enforcement,2026-10-08,Resolved,2026-10-13,2026-10-14,Permits & Enforcement,ENF-Team-A,Critical,Staff unavailable,2026-10-14
+C0192,Transformer Fault,Electricity Dept,2026-10-08,Resolved,2026-10-12,2026-10-13,Electricity Dept,ELC-Team-A,Low,None,2026-10-13
+C0371,Water Leakage,Water Dept,2026-10-08,Resolved,2026-10-11,2026-10-14,Water Dept,WTR-Team-B,High,Technical difficulties,2026-10-14
+C0523,Pothole Repair,Roads Dept,2026-10-08,In Progress,2026-10-14,,Roads Dept,RDS-Team-03,High,Awaiting materials,2026-11-14
+C0008,Contaminated Supply,Water Dept,2026-10-09,Resolved,2026-10-13,2026-10-11,Water Dept,WTR-Team-B,Medium,None,2026-10-11
+C0036,Transformer Fault,Electricity Dept,2026-10-09,Resolved,2026-10-11,2026-10-11,Electricity Dept,ELC-Team-B,High,None,2026-10-11
+C0166,Sidewalk Collapse,Roads Dept,2026-10-09,In Progress,2026-10-13,,Roads Dept,RDS-Team-02,Critical,Delay in department approval,2026-11-16
+C0566,Drainage,Municipal Dept,2026-10-09,Resolved,2026-10-13,2026-10-11,Municipal Dept,MUN-Team-03,High,None,2026-10-11
+C0597,Bridge Surface,Roads Dept,2026-10-09,Overdue,2026-10-17,,Roads Dept,RDS-Team-02,Medium,Awaiting materials,2026-11-18
+C0620,Sanitation,Municipal Dept,2026-10-09,Resolved,2026-10-13,2026-10-12,Municipal Dept,MUN-Team-01,High,None,2026-10-12
+C0288,Noise Permit,Permits & Enforcement,2026-10-10,Resolved,2026-10-18,2026-10-19,Permits & Enforcement,ENF-Team-B,High,Awaiting inspection,2026-10-19
+C0604,Garbage Overflow,Municipal Dept,2026-10-10,Resolved,2026-10-15,2026-10-16,Municipal Dept,MUN-Team-01,Medium,None,2026-10-16
+C0019,Storm Drain Blockage,Municipal Dept,2026-10-11,Resolved,2026-10-13,2026-10-13,Municipal Dept,MUN-Team-03,Critical,None,2026-10-13
+C0094,Storm Drain Blockage,Municipal Dept,2026-10-11,Resolved,2026-10-15,2026-10-16,Municipal Dept,MUN-Team-03,High,Equipment unavailable,2026-10-16
+C0121,Transformer Fault,Electricity Dept,2026-10-11,Resolved,2026-10-13,2026-10-12,Electricity Dept,ELC-Team-B,High,None,2026-10-12
+C0204,Water Supply,Water Dept,2026-10-11,Resolved,2026-10-16,2026-10-18,Water Dept,WTR-Team-A,Low,None,2026-10-18
+C0350,Drainage,Municipal Dept,2026-10-11,Resolved,2026-10-15,2026-10-15,Municipal Dept,MUN-Team-01,High,None,2026-10-15
+C0399,Zoning Violation,Permits & Enforcement,2026-10-11,Pending,2026-10-21,,Permits & Enforcement,ENF-Team-B,Medium,,2026-11-22
+C0512,Water Leakage,Water Dept,2026-10-11,Resolved,2026-10-16,2026-10-13,Water Dept,WTR-Team-B,Low,None,2026-10-13
+C0062,Water Supply,Water Dept,2026-10-12,Pending,2026-10-16,,Water Dept,WTR-Team-A,Medium,Technical difficulties,2026-11-23
+C0145,Drainage,Municipal Dept,2026-10-12,Resolved,2026-10-19,2026-10-15,Municipal Dept,MUN-Team-02,Low,None,2026-10-15
+C0154,Road Damage,Roads Dept,2026-10-12,Rejected,2026-10-18,2026-10-14,Roads Dept,RDS-Team-02,High,None,2026-10-14
+C0250,Zoning Violation,Permits & Enforcement,2026-10-12,Resolved,2026-10-26,2026-10-20,Permits & Enforcement,ENF-Team-B,Low,None,2026-10-20
+C0508,Streetlight Outage,Electricity Dept,2026-10-12,In Progress,2026-10-14,,Electricity Dept,ELC-Team-B,High,Awaiting materials,2026-11-22
+C0535,Storm Drain Blockage,Municipal Dept,2026-10-12,Resolved,2026-10-14,2026-10-16,Municipal Dept,MUN-Team-03,Critical,None,2026-10-16
+C0544,Sidewalk Collapse,Roads Dept,2026-10-12,In Progress,2026-10-18,,Roads Dept,RDS-Team-03,High,,2026-11-16
+C0102,Transformer Fault,Electricity Dept,2026-10-13,Resolved,2026-10-16,2026-10-16,Electricity Dept,ELC-Team-B,Medium,None,2026-10-16
+C0232,Contaminated Supply,Water Dept,2026-10-13,Overdue,2026-10-16,,Water Dept,WTR-Team-A,High,Technical difficulties,2026-11-21
+C0588,Downed Wire,Electricity Dept,2026-10-13,In Progress,2026-10-17,,Electricity Dept,ELC-Team-B,Low,Awaiting materials,2026-11-11
+C0122,Garbage Overflow,Municipal Dept,2026-10-14,Rejected,2026-10-18,2026-10-16,Municipal Dept,MUN-Team-01,High,None,2026-10-16
+C0580,Storm Drain Blockage,Municipal Dept,2026-10-14,Resolved,2026-10-19,2026-10-16,Municipal Dept,MUN-Team-01,Medium,None,2026-10-16
+C0014,Drainage,Municipal Dept,2026-10-15,Resolved,2026-10-20,2026-10-19,Municipal Dept,MUN-Team-01,Medium,None,2026-10-19
+C0016,Streetlight Outage,Electricity Dept,2026-10-15,Resolved,2026-10-19,2026-10-22,Electricity Dept,ELC-Team-B,Low,Poor coordination between departments,2026-10-22
+C0213,Sanitation,Municipal Dept,2026-10-15,Resolved,2026-10-19,2026-10-17,Municipal Dept,MUN-Team-01,High,None,2026-10-17
+C0217,Electricity,Electricity Dept,2026-10-15,Resolved,2026-10-18,2026-10-17,Electricity Dept,ELC-Team-A,Medium,None,2026-10-17
+C0527,Road Damage,Roads Dept,2026-10-15,Overdue,2026-10-21,,Roads Dept,RDS-Team-02,High,Awaiting materials,2026-11-14
+C0097,Pipeline Burst,Water Dept,2026-10-16,In Progress,2026-10-19,,Water Dept,WTR-Team-C,High,Equipment unavailable,2026-11-07
+C0112,Electricity,Electricity Dept,2026-10-17,Resolved,2026-10-20,2026-10-20,Electricity Dept,ELC-Team-A,Medium,None,2026-10-20
+C0158,Contaminated Supply,Water Dept,2026-10-17,Resolved,2026-10-21,2026-10-19,Water Dept,WTR-Team-C,Medium,None,2026-10-19
+C0221,Pipeline Burst,Water Dept,2026-10-17,Resolved,2026-10-21,2026-10-20,Water Dept,WTR-Team-A,Medium,None,2026-10-20
+C0322,Water Leakage,Water Dept,2026-10-17,Resolved,2026-10-20,2026-10-19,Water Dept,WTR-Team-A,High,None,2026-10-19
+C0525,Zoning Violation,Permits & Enforcement,2026-10-17,Resolved,2026-10-27,2026-10-22,Permits & Enforcement,ENF-Team-B,Medium,None,2026-10-22
+C0018,Electricity,Electricity Dept,2026-10-18,Resolved,2026-10-22,2026-10-21,Electricity Dept,ELC-Team-A,Low,None,2026-10-21
+C0108,Water Leakage,Water Dept,2026-10-18,Resolved,2026-10-21,2026-10-19,Water Dept,WTR-Team-A,High,None,2026-10-19
+C0357,Streetlight Outage,Electricity Dept,2026-10-18,Resolved,2026-10-21,2026-10-23,Electricity Dept,ELC-Team-B,Medium,Staff unavailable,2026-10-23
+C0006,Water Leakage,Water Dept,2026-10-19,Resolved,2026-10-23,2026-10-21,Water Dept,WTR-Team-C,Medium,None,2026-10-21
+C0010,Garbage Overflow,Municipal Dept,2026-10-19,Resolved,2026-10-23,2026-10-26,Municipal Dept,MUN-Team-02,High,None,2026-10-26
+C0069,Downed Wire,Electricity Dept,2026-10-19,Resolved,2026-10-23,2026-10-20,Electricity Dept,ELC-Team-B,Low,None,2026-10-20
+C0412,Sanitation,Municipal Dept,2026-10-19,Overdue,2026-10-23,,Municipal Dept,MUN-Team-03,High,Equipment unavailable,2026-11-14
+C0560,Pothole Repair,Roads Dept,2026-10-19,Resolved,2026-10-27,2026-10-22,Roads Dept,RDS-Team-01,Medium,None,2026-10-22
+C0025,Road Damage,Roads Dept,2026-10-20,Resolved,2026-10-28,2026-10-22,Roads Dept,RDS-Team-03,Medium,None,2026-10-22
+C0027,Electricity,Electricity Dept,2026-10-20,Resolved,2026-10-23,2026-10-23,Electricity Dept,ELC-Team-B,Medium,None,2026-10-23
+C0134,Electricity,Electricity Dept,2026-10-20,Resolved,2026-10-23,2026-10-21,Electricity Dept,ELC-Team-A,Medium,None,2026-10-21
+C0264,Contaminated Supply,Water Dept,2026-10-20,Resolved,2026-10-23,2026-10-29,Water Dept,WTR-Team-C,High,None,2026-10-29
+C0358,Storm Drain Blockage,Municipal Dept,2026-10-20,Resolved,2026-10-25,2026-11-04,Municipal Dept,MUN-Team-03,Medium,High complaint workload,2026-11-04
+C0573,Electricity,Electricity Dept,2026-10-20,Resolved,2026-10-24,2026-10-24,Electricity Dept,ELC-Team-A,Low,None,2026-10-24
+C0040,Drainage,Municipal Dept,2026-10-21,Resolved,2026-10-25,2026-10-24,Municipal Dept,MUN-Team-02,High,None,2026-10-24
+C0165,Pothole Repair,Roads Dept,2026-10-21,In Progress,2026-10-27,,Roads Dept,RDS-Team-03,High,Awaiting materials,2026-11-20
+C0574,Bridge Surface,Roads Dept,2026-10-21,Resolved,2026-10-29,2026-11-01,Roads Dept,RDS-Team-02,Medium,Awaiting materials,2026-11-01
+C0116,Streetlight Outage,Electricity Dept,2026-10-22,Pending,2026-10-24,,Electricity Dept,ELC-Team-B,High,Technical difficulties,2026-11-16
+C0481,Contaminated Supply,Water Dept,2026-10-22,Resolved,2026-10-27,2026-10-27,Water Dept,WTR-Team-C,Low,None,2026-10-27
+C0494,Road Damage,Roads Dept,2026-10-22,Resolved,2026-10-30,2026-10-26,Roads Dept,RDS-Team-01,Medium,None,2026-10-26
+C0596,Transformer Fault,Electricity Dept,2026-10-22,Rejected,2026-10-26,2026-10-23,Electricity Dept,ELC-Team-B,Low,None,2026-10-23
+C0190,Contaminated Supply,Water Dept,2026-10-23,Overdue,2026-10-26,,Water Dept,WTR-Team-B,High,,2026-11-16
+C0251,Road Damage,Roads Dept,2026-10-23,Resolved,2026-10-31,2026-11-04,Roads Dept,RDS-Team-03,Medium,None,2026-11-04
+C0254,Noise Permit,Permits & Enforcement,2026-10-23,Resolved,2026-11-02,2026-10-27,Permits & Enforcement,ENF-Team-A,Medium,None,2026-10-27
+C0556,Transformer Fault,Electricity Dept,2026-10-23,Resolved,2026-10-25,2026-10-24,Electricity Dept,ELC-Team-A,High,None,2026-10-24
+C0231,Water Supply,Water Dept,2026-10-24,Resolved,2026-10-28,2026-10-27,Water Dept,WTR-Team-B,Medium,None,2026-10-27
+C0452,Zoning Violation,Permits & Enforcement,2026-10-24,Rejected,2026-11-01,2026-10-27,Permits & Enforcement,ENF-Team-A,High,None,2026-10-27
+C0469,Drainage,Municipal Dept,2026-10-24,Overdue,2026-10-29,,Municipal Dept,MUN-Team-01,Medium,High complaint workload,2026-11-21
+C0590,Water Supply,Water Dept,2026-10-24,Overdue,2026-10-27,,Water Dept,WTR-Team-A,High,Equipment unavailable,2026-11-11
+C0419,Garbage Overflow,Municipal Dept,2026-10-25,Rejected,2026-10-29,2026-10-28,Municipal Dept,MUN-Team-02,High,None,2026-10-28
+C0565,Road Damage,Roads Dept,2026-10-25,Pending,2026-11-05,,Roads Dept,RDS-Team-02,Low,Delay in department approval,2026-11-11
+C0577,Pipeline Burst,Water Dept,2026-10-25,Resolved,2026-10-29,2026-10-27,Water Dept,WTR-Team-A,Medium,None,2026-10-27
+C0579,Downed Wire,Electricity Dept,2026-10-25,Resolved,2026-10-28,2026-10-27,Electricity Dept,ELC-Team-A,Medium,None,2026-10-27
+C0035,Noise Permit,Permits & Enforcement,2026-10-26,Resolved,2026-11-03,2026-11-13,Permits & Enforcement,ENF-Team-B,High,Staff unavailable,2026-11-13
+C0227,Pipeline Burst,Water Dept,2026-10-26,Resolved,2026-10-30,2026-10-28,Water Dept,WTR-Team-A,Medium,None,2026-10-28
+C0230,Garbage Overflow,Municipal Dept,2026-10-26,Resolved,2026-11-02,2026-10-30,Municipal Dept,MUN-Team-03,Low,None,2026-10-30
+C0391,Bridge Surface,Roads Dept,2026-10-26,Resolved,2026-11-01,2026-10-28,Roads Dept,RDS-Team-03,High,None,2026-10-28
+C0613,Garbage Overflow,Municipal Dept,2026-10-26,Pending,2026-10-31,,Municipal Dept,MUN-Team-02,Medium,Equipment unavailable,2026-11-06
+C0075,Storm Drain Blockage,Municipal Dept,2026-10-27,Resolved,2026-11-01,2026-11-03,Municipal Dept,MUN-Team-01,Medium,Awaiting inspection,2026-11-03
+C0298,Pothole Repair,Roads Dept,2026-10-27,Resolved,2026-10-31,2026-10-31,Roads Dept,RDS-Team-01,Critical,None,2026-10-31
+C0432,Road Damage,Roads Dept,2026-10-27,Resolved,2026-11-07,2026-11-04,Roads Dept,RDS-Team-02,Low,None,2026-11-04
+C0320,Sidewalk Collapse,Roads Dept,2026-10-28,In Progress,2026-11-05,,Roads Dept,RDS-Team-01,Medium,Awaiting materials,2026-11-23
+C0430,Bridge Surface,Roads Dept,2026-10-28,In Progress,2026-11-08,,Roads Dept,RDS-Team-02,Low,High complaint workload,2026-11-24
+C0187,Pipeline Burst,Water Dept,2026-10-29,Resolved,2026-11-02,2026-11-07,Water Dept,WTR-Team-B,Medium,Awaiting inspection,2026-11-07
+C0294,Zoning Violation,Permits & Enforcement,2026-10-29,Pending,2026-11-08,,Permits & Enforcement,ENF-Team-A,Medium,Awaiting inspection,2026-11-24
+C0528,Pipeline Burst,Water Dept,2026-10-29,Overdue,2026-10-31,,Water Dept,WTR-Team-C,Critical,Staff unavailable,2026-11-21
+C0612,Zoning Violation,Permits & Enforcement,2026-10-29,In Progress,2026-11-06,,Permits & Enforcement,ENF-Team-A,High,Delay in department approval,2026-11-05
+C0009,Electricity,Electricity Dept,2026-10-30,Overdue,2026-11-02,,Electricity Dept,ELC-Team-B,Medium,Poor coordination between departments,2026-11-22
+C0199,Pothole Repair,Roads Dept,2026-10-30,Resolved,2026-11-03,2026-11-01,Roads Dept,RDS-Team-01,Critical,None,2026-11-01
+C0292,Road Damage,Roads Dept,2026-10-30,Overdue,2026-11-10,,Roads Dept,RDS-Team-02,Low,Awaiting materials,2026-11-24
+C0497,Transformer Fault,Electricity Dept,2026-10-30,In Progress,2026-11-01,,Electricity Dept,ELC-Team-B,High,Technical difficulties,2026-11-14
+C0030,Garbage Overflow,Municipal Dept,2026-10-31,In Progress,2026-11-05,,Municipal Dept,MUN-Team-01,Medium,High complaint workload,2026-11-23
+C0033,Transformer Fault,Electricity Dept,2026-10-31,Pending,2026-11-02,,Electricity Dept,ELC-Team-B,High,Poor coordination between departments,2026-11-11
+C0183,Pipeline Burst,Water Dept,2026-10-31,Resolved,2026-11-04,2026-11-02,Water Dept,WTR-Team-C,Medium,None,2026-11-02
+C0211,Water Supply,Water Dept,2026-10-31,Pending,2026-11-04,,Water Dept,WTR-Team-B,Medium,,2026-11-23
+C0240,Transformer Fault,Electricity Dept,2026-10-31,Resolved,2026-11-04,2026-11-02,Electricity Dept,ELC-Team-A,Low,None,2026-11-02
+C0421,Contaminated Supply,Water Dept,2026-10-31,Resolved,2026-11-04,2026-11-03,Water Dept,WTR-Team-A,Medium,None,2026-11-03
+C0505,Pothole Repair,Roads Dept,2026-10-31,Overdue,2026-11-08,,Roads Dept,RDS-Team-01,Medium,High complaint workload,2026-11-19
+C0510,Drainage,Municipal Dept,2026-10-31,Rejected,2026-11-05,2026-11-02,Municipal Dept,MUN-Team-01,Medium,None,2026-11-02
+C0540,Contaminated Supply,Water Dept,2026-10-31,Pending,2026-11-05,,Water Dept,WTR-Team-C,Low,Awaiting materials,2026-11-21
+C0603,Bridge Surface,Roads Dept,2026-10-31,Overdue,2026-11-06,,Roads Dept,RDS-Team-02,High,Awaiting materials,2026-11-20
+C0617,Sanitation,Municipal Dept,2026-10-31,Resolved,2026-11-02,2026-11-03,Municipal Dept,MUN-Team-03,Critical,None,2026-11-03
+C0001,Sidewalk Collapse,Roads Dept,2026-11-01,In Progress,2026-11-07,,Roads Dept,RDS-Team-01,High,Awaiting materials,2026-11-23
+C0085,Drainage,Municipal Dept,2026-11-01,Resolved,2026-11-06,2026-11-06,Municipal Dept,MUN-Team-02,Medium,None,2026-11-06
+C0130,Transformer Fault,Electricity Dept,2026-11-01,Resolved,2026-11-05,2026-11-06,Electricity Dept,ELC-Team-B,Low,None,2026-11-06
+C0141,Pipeline Burst,Water Dept,2026-11-01,Resolved,2026-11-04,2026-11-02,Water Dept,WTR-Team-B,High,None,2026-11-02
+C0155,Sidewalk Collapse,Roads Dept,2026-11-01,Rejected,2026-11-05,2026-11-05,Roads Dept,RDS-Team-02,Critical,None,2026-11-05
+C0241,Storm Drain Blockage,Municipal Dept,2026-11-01,Resolved,2026-11-06,2026-11-06,Municipal Dept,MUN-Team-02,Medium,None,2026-11-06
+C0301,Water Supply,Water Dept,2026-11-01,Resolved,2026-11-06,2026-11-04,Water Dept,WTR-Team-C,Low,None,2026-11-04
+C0309,Garbage Overflow,Municipal Dept,2026-11-01,Resolved,2026-11-06,2026-11-07,Municipal Dept,MUN-Team-03,Medium,None,2026-11-07
+C0374,Water Supply,Water Dept,2026-11-01,Resolved,2026-11-05,2026-11-03,Water Dept,WTR-Team-A,Medium,None,2026-11-03
+C0378,Transformer Fault,Electricity Dept,2026-11-01,Resolved,2026-11-03,2026-11-03,Electricity Dept,ELC-Team-B,High,None,2026-11-03
+C0407,Drainage,Municipal Dept,2026-11-01,Resolved,2026-11-03,2026-11-02,Municipal Dept,MUN-Team-02,Critical,None,2026-11-02
+C0557,Transformer Fault,Electricity Dept,2026-11-01,Resolved,2026-11-04,2026-11-02,Electricity Dept,ELC-Team-B,Medium,None,2026-11-02
+C0589,Road Damage,Roads Dept,2026-11-01,Resolved,2026-11-09,2026-11-06,Roads Dept,RDS-Team-01,Medium,None,2026-11-06
+C0015,Sidewalk Collapse,Roads Dept,2026-11-02,Resolved,2026-11-10,2026-11-11,Roads Dept,RDS-Team-01,Medium,None,2026-11-11
+C0099,Zoning Violation,Permits & Enforcement,2026-11-02,Resolved,2026-11-10,2026-11-10,Permits & Enforcement,ENF-Team-A,High,None,2026-11-10
+C0175,Pothole Repair,Roads Dept,2026-11-02,Resolved,2026-11-08,2026-11-05,Roads Dept,RDS-Team-03,High,None,2026-11-05
+C0323,Streetlight Outage,Electricity Dept,2026-11-02,Resolved,2026-11-05,2026-11-06,Electricity Dept,ELC-Team-A,Medium,Staff unavailable,2026-11-06
+C0365,Bridge Surface,Roads Dept,2026-11-02,Resolved,2026-11-13,2026-11-10,Roads Dept,RDS-Team-01,Low,None,2026-11-10
+C0393,Downed Wire,Electricity Dept,2026-11-02,Resolved,2026-11-05,2026-11-03,Electricity Dept,ELC-Team-A,Medium,None,2026-11-03
+C0463,Streetlight Outage,Electricity Dept,2026-11-02,Resolved,2026-11-06,2026-11-09,Electricity Dept,ELC-Team-A,Low,None,2026-11-09
+C0491,Sidewalk Collapse,Roads Dept,2026-11-02,In Progress,2026-11-13,,Roads Dept,RDS-Team-01,Low,Delay in department approval,2026-11-07
+C0058,Downed Wire,Electricity Dept,2026-11-03,Resolved,2026-11-07,2026-11-06,Electricity Dept,ELC-Team-A,Low,None,2026-11-06
+C0071,Garbage Overflow,Municipal Dept,2026-11-03,Resolved,2026-11-08,2026-11-06,Municipal Dept,MUN-Team-03,Medium,None,2026-11-06
+C0169,Zoning Violation,Permits & Enforcement,2026-11-03,Resolved,2026-11-13,2026-11-11,Permits & Enforcement,ENF-Team-B,Medium,None,2026-11-11
+C0267,Noise Permit,Permits & Enforcement,2026-11-03,Resolved,2026-11-11,2026-11-05,Permits & Enforcement,ENF-Team-B,High,None,2026-11-05
+C0281,Illegal Construction,Permits & Enforcement,2026-11-03,Resolved,2026-11-11,2026-11-12,Permits & Enforcement,ENF-Team-A,High,Awaiting inspection,2026-11-12
+C0435,Pipeline Burst,Water Dept,2026-11-03,Rejected,2026-11-07,2026-11-05,Water Dept,WTR-Team-B,Medium,None,2026-11-05
+C0477,Streetlight Outage,Electricity Dept,2026-11-03,Resolved,2026-11-07,2026-11-06,Electricity Dept,ELC-Team-B,Low,None,2026-11-06
+C0484,Illegal Construction,Permits & Enforcement,2026-11-03,Resolved,2026-11-08,2026-11-07,Permits & Enforcement,ENF-Team-A,Critical,None,2026-11-07
+C0127,Sidewalk Collapse,Roads Dept,2026-11-04,Overdue,2026-11-10,,Roads Dept,RDS-Team-01,High,Awaiting materials,2026-11-09
+C0296,Pothole Repair,Roads Dept,2026-11-04,Resolved,2026-11-10,2026-11-13,Roads Dept,RDS-Team-03,High,Awaiting materials,2026-11-13
+C0367,Contaminated Supply,Water Dept,2026-11-04,Overdue,2026-11-08,,Water Dept,WTR-Team-A,Medium,Equipment unavailable,2026-11-13
+C0379,Drainage,Municipal Dept,2026-11-04,Pending,2026-11-09,,Municipal Dept,MUN-Team-03,Medium,Equipment unavailable,2026-11-22
+C0449,Sidewalk Collapse,Roads Dept,2026-11-04,Resolved,2026-11-10,2026-11-13,Roads Dept,RDS-Team-03,High,Awaiting materials,2026-11-13
+C0561,Water Leakage,Water Dept,2026-11-04,Resolved,2026-11-08,2026-11-08,Water Dept,WTR-Team-B,Medium,None,2026-11-08
+C0581,Sanitation,Municipal Dept,2026-11-04,Resolved,2026-11-09,2026-11-07,Municipal Dept,MUN-Team-03,Medium,None,2026-11-07
+C0029,Water Leakage,Water Dept,2026-11-05,Resolved,2026-11-09,2026-11-07,Water Dept,WTR-Team-B,Medium,None,2026-11-07
+C0043,Road Damage,Roads Dept,2026-11-05,Resolved,2026-11-13,2026-11-12,Roads Dept,RDS-Team-03,Medium,None,2026-11-12
+C0057,Sanitation,Municipal Dept,2026-11-05,Resolved,2026-11-10,2026-11-12,Municipal Dept,MUN-Team-01,Medium,None,2026-11-12
+C0113,Illegal Construction,Permits & Enforcement,2026-11-05,In Progress,2026-11-19,,Permits & Enforcement,ENF-Team-A,Low,Staff unavailable,2026-11-12
+C0197,Drainage,Municipal Dept,2026-11-05,Resolved,2026-11-12,2026-11-14,Municipal Dept,MUN-Team-03,Low,Poor coordination between departments,2026-11-14
+C0225,Downed Wire,Electricity Dept,2026-11-05,Resolved,2026-11-08,2026-11-07,Electricity Dept,ELC-Team-B,Medium,None,2026-11-07
+C0291,Sanitation,Municipal Dept,2026-11-05,Resolved,2026-11-09,2026-11-07,Municipal Dept,MUN-Team-02,High,None,2026-11-07
+C0351,Pipeline Burst,Water Dept,2026-11-05,Resolved,2026-11-08,2026-11-08,Water Dept,WTR-Team-B,High,None,2026-11-08
+C0364,Bridge Surface,Roads Dept,2026-11-05,Pending,2026-11-09,,Roads Dept,RDS-Team-01,Critical,,2026-11-23
+C0376,Bridge Surface,Roads Dept,2026-11-05,Pending,2026-11-13,,Roads Dept,RDS-Team-03,Medium,Awaiting materials,2026-11-14
+C0440,Pothole Repair,Roads Dept,2026-11-05,Resolved,2026-11-16,2026-11-17,Roads Dept,RDS-Team-01,Low,Contractor-related delays,2026-11-17
+C0472,Illegal Construction,Permits & Enforcement,2026-11-05,Resolved,2026-11-15,2026-11-10,Permits & Enforcement,ENF-Team-B,Medium,None,2026-11-10
+C0519,Drainage,Municipal Dept,2026-11-05,Rejected,2026-11-09,2026-11-09,Municipal Dept,MUN-Team-01,High,None,2026-11-09
+C0547,Sanitation,Municipal Dept,2026-11-05,Pending,2026-11-10,,Municipal Dept,MUN-Team-03,Medium,Poor coordination between departments,2026-11-14
+C0575,Noise Permit,Permits & Enforcement,2026-11-05,Resolved,2026-11-13,2026-11-12,Permits & Enforcement,ENF-Team-B,High,None,2026-11-12
+C0585,Pipeline Burst,Water Dept,2026-11-05,Resolved,2026-11-09,2026-11-08,Water Dept,WTR-Team-C,Medium,None,2026-11-08
+C0078,Noise Permit,Permits & Enforcement,2026-11-06,Resolved,2026-11-14,2026-11-12,Permits & Enforcement,ENF-Team-A,High,None,2026-11-12
+C0104,Pothole Repair,Roads Dept,2026-11-06,Pending,2026-11-12,,Roads Dept,RDS-Team-02,High,High complaint workload,2026-11-23
+C0144,Sanitation,Municipal Dept,2026-11-06,Resolved,2026-11-08,2026-11-07,Municipal Dept,MUN-Team-03,Critical,None,2026-11-07
+C0161,Downed Wire,Electricity Dept,2026-11-06,In Progress,2026-11-09,,Electricity Dept,ELC-Team-A,Medium,Awaiting materials,2026-11-08
+C0239,Water Supply,Water Dept,2026-11-06,Resolved,2026-11-09,2026-11-09,Water Dept,WTR-Team-A,High,None,2026-11-09
+C0253,Encroachment,Permits & Enforcement,2026-11-06,Resolved,2026-11-20,2026-11-24,Permits & Enforcement,ENF-Team-B,Low,Delay in department approval,2026-11-24
+C0295,Electricity,Electricity Dept,2026-11-06,Resolved,2026-11-10,2026-11-08,Electricity Dept,ELC-Team-A,Low,None,2026-11-08
+C0337,Sanitation,Municipal Dept,2026-11-06,Resolved,2026-11-10,2026-11-10,Municipal Dept,MUN-Team-03,High,None,2026-11-10
+C0348,Sanitation,Municipal Dept,2026-11-06,Resolved,2026-11-13,2026-11-11,Municipal Dept,MUN-Team-03,Low,None,2026-11-11
+C0533,Transformer Fault,Electricity Dept,2026-11-06,Pending,2026-11-10,,Electricity Dept,ELC-Team-B,Low,Awaiting materials,2026-11-13
+C0139,Zoning Violation,Permits & Enforcement,2026-11-07,Resolved,2026-11-15,2026-11-10,Permits & Enforcement,ENF-Team-A,High,None,2026-11-10
+C0168,Sanitation,Municipal Dept,2026-11-07,Pending,2026-11-11,,Municipal Dept,MUN-Team-02,High,Poor coordination between departments,2026-11-11
+C0262,Water Supply,Water Dept,2026-11-07,Resolved,2026-11-11,2026-11-13,Water Dept,WTR-Team-C,Medium,Equipment unavailable,2026-11-13
+C0303,Water Leakage,Water Dept,2026-11-07,Resolved,2026-11-12,2026-11-13,Water Dept,WTR-Team-C,Low,Awaiting inspection,2026-11-13
+C0328,Sanitation,Municipal Dept,2026-11-07,Resolved,2026-11-12,2026-11-15,Municipal Dept,MUN-Team-02,Medium,Poor coordination between departments,2026-11-15
+C0343,Storm Drain Blockage,Municipal Dept,2026-11-07,Pending,2026-11-12,,Municipal Dept,MUN-Team-03,Medium,Awaiting inspection,2026-11-16
+C0064,Streetlight Outage,Electricity Dept,2026-11-08,Resolved,2026-11-10,2026-11-13,Electricity Dept,ELC-Team-B,High,Technical difficulties,2026-11-13
+C0146,Garbage Overflow,Municipal Dept,2026-11-08,Resolved,2026-11-13,2026-11-15,Municipal Dept,MUN-Team-02,Medium,Poor coordination between departments,2026-11-15
+C0191,Water Leakage,Water Dept,2026-11-08,Pending,2026-11-13,,Water Dept,WTR-Team-C,Low,Technical difficulties,2026-11-08
+C0224,Sidewalk Collapse,Roads Dept,2026-11-08,Pending,2026-11-14,,Roads Dept,RDS-Team-03,High,Awaiting materials,2026-11-19
+C0305,Sidewalk Collapse,Roads Dept,2026-11-09,Overdue,2026-11-15,,Roads Dept,RDS-Team-01,High,,2026-11-13
+C0312,Pothole Repair,Roads Dept,2026-11-09,In Progress,2026-11-17,,Roads Dept,RDS-Team-01,Medium,,2026-11-24
+C0325,Storm Drain Blockage,Municipal Dept,2026-11-09,In Progress,2026-11-16,,Municipal Dept,MUN-Team-03,Low,Equipment unavailable,2026-11-14
+C0347,Sidewalk Collapse,Roads Dept,2026-11-09,Pending,2026-11-17,,Roads Dept,RDS-Team-02,Medium,,2026-11-18
+C0455,Drainage,Municipal Dept,2026-11-09,Pending,2026-11-13,,Municipal Dept,MUN-Team-03,High,Equipment unavailable,2026-11-23
+C0410,Storm Drain Blockage,Municipal Dept,2026-11-10,Resolved,2026-11-14,2026-11-12,Municipal Dept,MUN-Team-03,High,None,2026-11-12
+C0571,Storm Drain Blockage,Municipal Dept,2026-11-10,Overdue,2026-11-15,,Municipal Dept,MUN-Team-02,Medium,High complaint workload,2026-11-14
+C0326,Water Leakage,Water Dept,2026-11-11,In Progress,2026-11-15,,Water Dept,WTR-Team-A,Medium,Awaiting inspection,2026-11-13
+C0344,Road Damage,Roads Dept,2026-11-11,In Progress,2026-11-17,,Roads Dept,RDS-Team-03,High,Awaiting materials,2026-11-13
+C0387,Water Leakage,Water Dept,2026-11-11,Resolved,2026-11-15,2026-11-16,Water Dept,WTR-Team-C,Medium,None,2026-11-16
+C0406,Zoning Violation,Permits & Enforcement,2026-11-11,Pending,2026-11-25,,Permits & Enforcement,ENF-Team-B,Low,,2026-11-22
+C0471,Drainage,Municipal Dept,2026-11-11,Resolved,2026-11-16,2026-11-20,Municipal Dept,MUN-Team-01,Medium,Poor coordination between departments,2026-11-20
+C0487,Illegal Construction,Permits & Enforcement,2026-11-11,Resolved,2026-11-16,2026-11-14,Permits & Enforcement,ENF-Team-A,Critical,None,2026-11-14
+C0115,Road Damage,Roads Dept,2026-11-12,Overdue,2026-11-18,,Roads Dept,RDS-Team-03,High,Equipment unavailable,2026-11-17
+C0156,Sanitation,Municipal Dept,2026-11-12,Resolved,2026-11-17,2026-11-19,Municipal Dept,MUN-Team-02,Medium,Poor coordination between departments,2026-11-19
+C0171,Encroachment,Permits & Enforcement,2026-11-12,Overdue,2026-11-22,,Permits & Enforcement,ENF-Team-B,Medium,Staff unavailable,2026-11-23
+C0438,Streetlight Outage,Electricity Dept,2026-11-12,Resolved,2026-11-16,2026-11-17,Electricity Dept,ELC-Team-A,Low,None,2026-11-17
+C0446,Bridge Surface,Roads Dept,2026-11-12,Pending,2026-11-18,,Roads Dept,RDS-Team-03,High,Equipment unavailable,2026-11-20
+C0246,Sidewalk Collapse,Roads Dept,2026-11-13,Resolved,2026-11-21,2026-11-24,Roads Dept,RDS-Team-02,Medium,High complaint workload,2026-11-24
+C0321,Noise Permit,Permits & Enforcement,2026-11-13,Overdue,2026-11-23,,Permits & Enforcement,ENF-Team-B,Medium,Staff unavailable,2026-11-20
+C0340,Electricity,Electricity Dept,2026-11-13,Rejected,2026-11-15,2026-11-16,Electricity Dept,ELC-Team-B,Critical,None,2026-11-16
+C0425,Garbage Overflow,Municipal Dept,2026-11-13,Pending,2026-11-18,,Municipal Dept,MUN-Team-01,Medium,Awaiting inspection,2026-11-16
+C0609,Water Supply,Water Dept,2026-11-13,Resolved,2026-11-18,2026-11-18,Water Dept,WTR-Team-A,Low,None,2026-11-18
+C0023,Illegal Construction,Permits & Enforcement,2026-11-14,Resolved,2026-11-24,2026-11-24,Permits & Enforcement,ENF-Team-A,Medium,None,2026-11-24
+C0047,Pothole Repair,Roads Dept,2026-11-14,Resolved,2026-11-25,2026-11-24,Roads Dept,RDS-Team-02,Low,None,2026-11-24
+C0417,Garbage Overflow,Municipal Dept,2026-11-14,Resolved,2026-11-18,2026-11-17,Municipal Dept,MUN-Team-01,High,None,2026-11-17
+C0509,Pipeline Burst,Water Dept,2026-11-14,Resolved,2026-11-18,2026-11-16,Water Dept,WTR-Team-C,Medium,None,2026-11-16
+C0524,Downed Wire,Electricity Dept,2026-11-14,Resolved,2026-11-17,2026-11-24,Electricity Dept,ELC-Team-B,Medium,Poor coordination between departments,2026-11-24
+C0532,Noise Permit,Permits & Enforcement,2026-11-14,Resolved,2026-11-22,2026-11-19,Permits & Enforcement,ENF-Team-B,High,None,2026-11-19
+C0179,Sanitation,Municipal Dept,2026-11-15,Resolved,2026-11-20,2026-11-17,Municipal Dept,MUN-Team-01,Medium,None,2026-11-17
+C0353,Road Damage,Roads Dept,2026-11-15,In Progress,2026-11-23,,Roads Dept,RDS-Team-03,Medium,Awaiting materials,2026-11-22
+C0583,Sanitation,Municipal Dept,2026-11-15,Resolved,2026-11-20,2026-11-18,Municipal Dept,MUN-Team-01,Medium,None,2026-11-18
+C0602,Downed Wire,Electricity Dept,2026-11-15,Resolved,2026-11-17,2026-11-16,Electricity Dept,ELC-Team-B,Critical,None,2026-11-16
+C0081,Bridge Surface,Roads Dept,2026-11-16,In Progress,2026-11-24,,Roads Dept,RDS-Team-03,Medium,,2026-11-21
+C0105,Water Leakage,Water Dept,2026-11-16,Resolved,2026-11-18,2026-11-18,Water Dept,WTR-Team-A,Critical,None,2026-11-18
+C0153,Sidewalk Collapse,Roads Dept,2026-11-16,Resolved,2026-11-24,2026-11-21,Roads Dept,RDS-Team-03,Medium,None,2026-11-21
+C0388,Bridge Surface,Roads Dept,2026-11-16,Resolved,2026-11-22,2026-11-24,Roads Dept,RDS-Team-01,High,Delay in department approval,2026-11-24
+C0414,Contaminated Supply,Water Dept,2026-11-16,Overdue,2026-11-18,,Water Dept,WTR-Team-C,Critical,Technical difficulties,2026-11-20
+C0428,Contaminated Supply,Water Dept,2026-11-16,Resolved,2026-11-20,2026-11-18,Water Dept,WTR-Team-B,Medium,None,2026-11-18
+C0534,Electricity,Electricity Dept,2026-11-16,Pending,2026-11-18,,Electricity Dept,ELC-Team-A,High,Technical difficulties,2026-11-24
+C0100,Drainage,Municipal Dept,2026-11-17,In Progress,2026-11-24,,Municipal Dept,MUN-Team-02,Low,Awaiting inspection,2026-11-19
+C0137,Water Supply,Water Dept,2026-11-17,In Progress,2026-11-21,,Water Dept,WTR-Team-C,Medium,,2026-11-21
+C0329,Water Leakage,Water Dept,2026-11-17,Overdue,2026-11-22,,Water Dept,WTR-Team-B,Low,Awaiting materials,2026-11-23
+C0403,Garbage Overflow,Municipal Dept,2026-11-17,Resolved,2026-11-24,2026-11-24,Municipal Dept,MUN-Team-03,Low,Poor coordination between departments,2026-11-24
+C0461,Pipeline Burst,Water Dept,2026-11-17,Pending,2026-11-21,,Water Dept,WTR-Team-A,Medium,Technical difficulties,2026-11-19
+C0083,Sidewalk Collapse,Roads Dept,2026-11-18,Pending,2026-11-24,,Roads Dept,RDS-Team-01,High,,2026-11-18
+C0087,Bridge Surface,Roads Dept,2026-11-18,In Progress,2026-11-26,,Roads Dept,RDS-Team-02,Medium,Delay in department approval,2026-11-24
+C0106,Streetlight Outage,Electricity Dept,2026-11-18,Overdue,2026-11-20,,Electricity Dept,ELC-Team-B,High,Technical difficulties,2026-11-24
+C0202,Sidewalk Collapse,Roads Dept,2026-11-18,Resolved,2026-11-26,2026-11-24,Roads Dept,RDS-Team-03,Medium,None,2026-11-24
+C0331,Pothole Repair,Roads Dept,2026-11-18,Pending,2026-11-26,,Roads Dept,RDS-Team-03,Medium,,2026-11-21
+C0377,Contaminated Supply,Water Dept,2026-11-18,In Progress,2026-11-22,,Water Dept,WTR-Team-C,Medium,Staff unavailable,2026-11-18
+C0390,Sanitation,Municipal Dept,2026-11-18,Resolved,2026-11-23,2026-11-21,Municipal Dept,MUN-Team-03,Medium,None,2026-11-21
+C0460,Sidewalk Collapse,Roads Dept,2026-11-18,Pending,2026-11-24,,Roads Dept,RDS-Team-01,High,Delay in department approval,2026-11-24
+C0521,Pipeline Burst,Water Dept,2026-11-18,Resolved,2026-11-22,2026-11-22,Water Dept,WTR-Team-B,Medium,None,2026-11-22
+C0593,Noise Permit,Permits & Enforcement,2026-11-18,In Progress,2026-11-23,,Permits & Enforcement,ENF-Team-A,Critical,,2026-11-21
+C0595,Contaminated Supply,Water Dept,2026-11-18,Resolved,2026-11-21,2026-11-19,Water Dept,WTR-Team-A,High,None,2026-11-19
+C0011,Bridge Surface,Roads Dept,2026-11-19,In Progress,2026-11-27,,Roads Dept,RDS-Team-02,Medium,Contractor-related delays,2026-11-21
+C0091,Drainage,Municipal Dept,2026-11-19,Resolved,2026-11-26,2026-11-24,Municipal Dept,MUN-Team-01,Low,None,2026-11-24
+C0299,Sidewalk Collapse,Roads Dept,2026-11-19,In Progress,2026-11-27,,Roads Dept,RDS-Team-03,Medium,,2026-11-23
+C0394,Streetlight Outage,Electricity Dept,2026-11-19,Pending,2026-11-22,,Electricity Dept,ELC-Team-A,Medium,Staff unavailable,2026-11-22
+C0110,Pipeline Burst,Water Dept,2026-11-20,Rejected,2026-11-25,2026-11-24,Water Dept,WTR-Team-A,Low,None,2026-11-24
+C0136,Electricity,Electricity Dept,2026-11-20,Pending,2026-11-22,,Electricity Dept,ELC-Team-A,Critical,Staff unavailable,2026-11-20
+C0242,Sanitation,Municipal Dept,2026-11-20,In Progress,2026-11-25,,Municipal Dept,MUN-Team-03,Medium,,2026-11-22
+C0424,Drainage,Municipal Dept,2026-11-20,Pending,2026-11-25,,Municipal Dept,MUN-Team-03,Medium,,2026-11-24
+C0610,Storm Drain Blockage,Municipal Dept,2026-11-20,Pending,2026-11-27,,Municipal Dept,MUN-Team-03,Low,,2026-11-23
+C0051,Downed Wire,Electricity Dept,2026-11-21,Resolved,2026-11-24,2026-11-23,Electricity Dept,ELC-Team-B,Medium,None,2026-11-23
+C0084,Sidewalk Collapse,Roads Dept,2026-11-21,Rejected,2026-11-29,2026-11-23,Roads Dept,RDS-Team-03,Medium,None,2026-11-23
+C0172,Sanitation,Municipal Dept,2026-11-21,In Progress,2026-11-25,,Municipal Dept,MUN-Team-03,High,Equipment unavailable,2026-11-23
+C0205,Sidewalk Collapse,Roads Dept,2026-11-21,In Progress,2026-11-29,,Roads Dept,RDS-Team-03,Medium,,2026-11-24
+C0306,Pothole Repair,Roads Dept,2026-11-21,Pending,2026-11-29,,Roads Dept,RDS-Team-03,Medium,Delay in department approval,2026-11-22
+C0454,Water Leakage,Water Dept,2026-11-21,Pending,2026-11-26,,Water Dept,WTR-Team-C,Low,Equipment unavailable,2026-11-24
+C0459,Electricity,Electricity Dept,2026-11-21,Pending,2026-11-25,,Electricity Dept,ELC-Team-B,Low,Poor coordination between departments,2026-11-23
+C0045,Contaminated Supply,Water Dept,2026-11-22,Pending,2026-11-26,,Water Dept,WTR-Team-A,Medium,,2026-11-22
+C0339,Transformer Fault,Electricity Dept,2026-11-22,In Progress,2026-11-26,,Electricity Dept,ELC-Team-A,Low,,2026-11-23
+C0380,Water Supply,Water Dept,2026-11-22,Pending,2026-11-26,,Water Dept,WTR-Team-C,Medium,,2026-11-22
+C0592,Sidewalk Collapse,Roads Dept,2026-11-22,In Progress,2026-11-28,,Roads Dept,RDS-Team-02,High,Contractor-related delays,2026-11-24
+C0061,Encroachment,Permits & Enforcement,2026-11-23,Pending,2026-12-07,,Permits & Enforcement,ENF-Team-A,Low,,2026-11-23
+C0128,Noise Permit,Permits & Enforcement,2026-11-23,Pending,2026-12-07,,Permits & Enforcement,ENF-Team-A,Low,,2026-11-23
+C0488,Drainage,Municipal Dept,2026-11-23,Resolved,2026-11-27,2026-11-24,Municipal Dept,MUN-Team-03,High,None,2026-11-24
+C0500,Sanitation,Municipal Dept,2026-11-23,In Progress,2026-11-28,,Municipal Dept,MUN-Team-01,Medium,High complaint workload,2026-11-23
+C0189,Electricity,Electricity Dept,2026-11-24,Pending,2026-11-27,,Electricity Dept,ELC-Team-B,Medium,,2026-11-24
+C0551,Garbage Overflow,Municipal Dept,2026-11-24,In Progress,2026-11-29,,Municipal Dept,MUN-Team-01,Medium,,2026-11-24
+C0570,Electricity,Electricity Dept,2026-11-24,Resolved,2026-11-26,2026-11-24,Electricity Dept,ELC-Team-B,High,None,2026-11-24
